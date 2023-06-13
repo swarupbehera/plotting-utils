@@ -1,0 +1,1753 @@
+file_name,QuestionText,answer,confidence
+AmbianceBackyard_Quiet_bip.wav,How many birds are squawking?,three,Maybe
+AmbianceBackyard_Quiet_bip.wav,How many birds are squawking?,three,Maybe
+AmbianceBackyard_Quiet_bip.wav,How many birds are squawking?,two,Maybe
+AmbianceBackyard_Quiet_bip.wav,How many cars honk their horn?,zero,Yes
+AmbianceBackyard_Quiet_bip.wav,How many cars honk their horn?,one,Yes
+AmbianceBackyard_Quiet_bip.wav,How many cars honk their horn?,one,Yes
+20110121_cranes.wind.wav,How many birds are making noise?,two,Maybe
+20110121_cranes.wind.wav,How many birds are making noise?,two,Maybe
+20110121_cranes.wind.wav,How many birds are making noise?,several,Yes
+sants_train.wav,How many different sounds can be heard?,three,Maybe
+sants_train.wav,How many different sounds can be heard?,two,Maybe
+sants_train.wav,How many different sounds can be heard?,five,Maybe
+31 hn_door4.wav,How many separate creaking noises were made?,five,Maybe
+31 hn_door4.wav,How many separate creaking noises were made?,three,Yes
+31 hn_door4.wav,How many separate creaking noises were made?,five,Maybe
+kettle-watergong4.wav,How many times is the object struck?,nineteen,Yes
+kettle-watergong4.wav,How many times is the object struck?,eleven,No
+kettle-watergong4.wav,How many times is the object struck?,twenty,Yes
+open and close umbrella.wav,How many times is the repetitive noise made?,four,Yes
+open and close umbrella.wav,How many times is the repetitive noise made?,three,Yes
+open and close umbrella.wav,How many times is the repetitive noise made?,six,Yes
+SR001F.wav,how many people are talking?,three,Maybe
+SR001F.wav,how many people are talking?,two,Maybe
+SR001F.wav,how many people are talking?,three,Yes
+SYnth_NoisesAV.wav,How many objects are making noise?,three,Maybe
+SYnth_NoisesAV.wav,How many objects are making noise?,one,Yes
+SYnth_NoisesAV.wav,How many objects are making noise?,one,Yes
+San Francisco Traffic at Powell And O&#39;Farrell.wav,How many people are chatting in the background?,three,Maybe
+San Francisco Traffic at Powell And O&#39;Farrell.wav,How many people are chatting in the background?,two,Maybe
+San Francisco Traffic at Powell And O&#39;Farrell.wav,How many people are chatting in the background?,two,No
+md4trk7.wav,how many times does the sound stop and start again?,zero,Maybe
+md4trk7.wav,how many times does the sound stop and start again?,none,Maybe
+md4trk7.wav,how many times does the sound stop and start again?,zero,Yes
+Steady Rain.wav,How is the weather?,raining,Yes
+Steady Rain.wav,How is the weather?,rainy,Yes
+Steady Rain.wav,How is the weather?,rainy,Yes
+La cuina del institut.wav,How many different voices can be heard?,two,Maybe
+La cuina del institut.wav,How many different voices can be heard?,two,Yes
+La cuina del institut.wav,How many different voices can be heard?,one,Yes
+Newark airport outside.wav,How many times are rollers heard?,none,Yes
+Newark airport outside.wav,How many times are rollers heard?,five,Yes
+Newark airport outside.wav,How many times are rollers heard?,nine,Maybe
+"Gibraltar Mountain (apes, birds).wav",How many voices are heard?,three,Maybe
+"Gibraltar Mountain (apes, birds).wav",How many voices are heard?,three,No
+"Gibraltar Mountain (apes, birds).wav",How many voices are heard?,four,Yes
+footstep on wood foley.wav,How many steps did the person step on?,five,Maybe
+footstep on wood foley.wav,How many steps did the person step on?,twentyseven,Maybe
+footstep on wood foley.wav,How many steps did the person step on?,twentysix,No
+inside a japanese bus.wav,How many ticking noises occur?,five,Yes
+inside a japanese bus.wav,How many ticking noises occur?,five,No
+inside a japanese bus.wav,How many ticking noises occur?,six,Yes
+Anchor Chain.wav,How quickly is the train moving ?,slowly,Maybe
+Anchor Chain.wav,How quickly is the train moving ?,fast,Yes
+Anchor Chain.wav,How quickly is the train moving ?,slowly,Maybe
+Birds and ducks -Delta del Llobregat.wav,How many kinds of animals make noises?,three,Maybe
+Birds and ducks -Delta del Llobregat.wav,How many kinds of animals make noises?,two,Maybe
+Birds and ducks -Delta del Llobregat.wav,How many kinds of animals make noises?,one,Maybe
+Sink and Water.wav,How many times does it squeak?,one,Maybe
+Sink and Water.wav,How many times does it squeak?,two,Yes
+Sink and Water.wav,How many times does it squeak?,one,No
+heavy old keys working on door lock.wav,How many times is a chipping sound made by the object?,8times,Yes
+heavy old keys working on door lock.wav,How many times is a chipping sound made by the object?,air,Yes
+heavy old keys working on door lock.wav,How many times is a chipping sound made by the object?,fourteen,Yes
+Rain hitting window.wav,How many different noises apart from the main one can be heard in the clip?,two,Maybe
+Rain hitting window.wav,How many different noises apart from the main one can be heard in the clip?,three,Maybe
+Rain hitting window.wav,How many different noises apart from the main one can be heard in the clip?,zero,Maybe
+Glass bag drops.wav,How many times does the glass shatter?,six,Yes
+Glass bag drops.wav,How many times does the glass shatter?,seven,Yes
+Glass bag drops.wav,How many times does the glass shatter?,six,Yes
+City Bus.wav,How many people can be heard talking?,one,Maybe
+City Bus.wav,How many people can be heard talking?,one,Yes
+City Bus.wav,How many people can be heard talking?,one,Yes
+Pouring Into Glass.wav,How many drinks are poured?,many,Yes
+Pouring Into Glass.wav,How many drinks are poured?,three,Yes
+Pouring Into Glass.wav,How many drinks are poured?,three,Yes
+kipgeluid.wav,how many chickens are there?,two,Yes
+kipgeluid.wav,how many chickens are there?,two,Yes
+kipgeluid.wav,how many chickens are there?,six,Maybe
+FlushToilet.wav,How many times is the toilet flushed?,twenty,Maybe
+FlushToilet.wav,How many times is the toilet flushed?,once,Yes
+FlushToilet.wav,How many times is the toilet flushed?,one,Yes
+WinterWren1.wav,How many words does the man speak?,two,Yes
+WinterWren1.wav,How many words does the man speak?,two,Yes
+WinterWren1.wav,How many words does the man speak?,two,Yes
+container port 01.wav,How many bangs are there?,one,Yes
+container port 01.wav,How many bangs are there?,one,Yes
+container port 01.wav,How many bangs are there?,one,Maybe
+Traffic on a Busy Street.wav,How many different transportation vehicles are in motion?,nine,Maybe
+Traffic on a Busy Street.wav,How many different transportation vehicles are in motion?,six,Yes
+Traffic on a Busy Street.wav,How many different transportation vehicles are in motion?,eight,Yes
+Faucet Running.wav,How many times is there a dull thud?,zero,Maybe
+Faucet Running.wav,How many times is there a dull thud?,zero,Yes
+Faucet Running.wav,How many times is there a dull thud?,one,Yes
+uguisbari.wav,How many steps does the person make?,twenty,Yes
+uguisbari.wav,How many steps does the person make?,twentytwo,Maybe
+uguisbari.wav,How many steps does the person make?,ten,Maybe
+button_drop.wav,How many times is the object dropped?,six,Yes
+button_drop.wav,How many times is the object dropped?,shooting,Yes
+button_drop.wav,How many times is the object dropped?,six,Yes
+thunder04.wav,How long does the thunder echo?,long,Maybe
+thunder04.wav,How long does the thunder echo?,fourteen,Maybe
+thunder04.wav,How long does the thunder echo?,short,Yes
+Rio Cadi.wav,How fast is the water moving?,rushing,Yes
+Rio Cadi.wav,How fast is the water moving?,fast,Maybe
+Rio Cadi.wav,How fast is the water moving?,rapidly,Yes
+LoneCricketInFallBasement.wav,How many chirps can be heard?,thirty,Maybe
+LoneCricketInFallBasement.wav,How many chirps can be heard?,twenty,Maybe
+LoneCricketInFallBasement.wav,How many chirps can be heard?,twentynine,Yes
+footsteps woodland.wav,how many footsteps are there?,fifty,No
+footsteps woodland.wav,how many footsteps are there?,fourty,Maybe
+footsteps woodland.wav,how many footsteps are there?,ten,Maybe
+Crinklng and opening packet of potato chips.wav,How many times does the putty fart?,six,Yes
+Crinklng and opening packet of potato chips.wav,How many times does the putty fart?,one,Maybe
+Crinklng and opening packet of potato chips.wav,How many times does the putty fart?,one,Yes
+salle.spectacle.remplie.wav,How many people are talking?,eight,No
+salle.spectacle.remplie.wav,How many people are talking?,many,Yes
+salle.spectacle.remplie.wav,How many people are talking?,many,Maybe
+Glass Bottles rattle and chink.wav,How many people are moving things?,one,Maybe
+Glass Bottles rattle and chink.wav,How many people are moving things?,one,Maybe
+Glass Bottles rattle and chink.wav,How many people are moving things?,two,Yes
+fdv_machine_a_ecrire.wav,how many dings are heard?,two,Yes
+fdv_machine_a_ecrire.wav,how many dings are heard?,two,Yes
+fdv_machine_a_ecrire.wav,how many dings are heard?,one,Maybe
+steps through the forest - birds sing.wav,How many steps can be heard?,seventeen,Maybe
+steps through the forest - birds sing.wav,How many steps can be heard?,thirty,Maybe
+steps through the forest - birds sing.wav,How many steps can be heard?,thirty,Maybe
+"WASHING,machine.wav",how often does the machine in the background make noise?,twice,Yes
+"WASHING,machine.wav",how often does the machine in the background make noise?,two,Maybe
+"WASHING,machine.wav",how often does the machine in the background make noise?,two,Yes
+Show Opener - LiftOff.wav,How many voices are heard?,three,Maybe
+Show Opener - LiftOff.wav,How many voices are heard?,five,Maybe
+Show Opener - LiftOff.wav,How many voices are heard?,five,Maybe
+Gulls in Park next to Barce.wav,how often do the birds make noises?,always,Yes
+Gulls in Park next to Barce.wav,how often do the birds make noises?,constantly,Yes
+Gulls in Park next to Barce.wav,how often do the birds make noises?,always,Maybe
+"India Divali Celebration Night (Fireworks, Voices, Traffic).wav",how many shots are heard?,five,No
+"India Divali Celebration Night (Fireworks, Voices, Traffic).wav",how many shots are heard?,two,Maybe
+"India Divali Celebration Night (Fireworks, Voices, Traffic).wav",how many shots are heard?,six,Yes
+Greeting Card Foley.wav,how many times does the item flap?,fourteen,Maybe
+Greeting Card Foley.wav,how many times does the item flap?,sixteen,Maybe
+Greeting Card Foley.wav,how many times does the item flap?,nineteen,Maybe
+Summer waves at Charmouth beach in Dorset.wav,how many waves are there?,six,Yes
+Summer waves at Charmouth beach in Dorset.wav,how many waves are there?,three,No
+Summer waves at Charmouth beach in Dorset.wav,how many waves are there?,seven,Maybe
+moucho-I.wav,How many animals are making noise?,two,Maybe
+moucho-I.wav,How many animals are making noise?,one,Yes
+moucho-I.wav,How many animals are making noise?,three,Yes
+Vocoded death threat.wav,How many times does the sound occur?,two,Yes
+Vocoded death threat.wav,How many times does the sound occur?,two,Yes
+Vocoded death threat.wav,How many times does the sound occur?,two,Yes
+Whistling antarctic blizzard.wav,how many times is the tap heard from the large metal piece?,eight,No
+Whistling antarctic blizzard.wav,how many times is the tap heard from the large metal piece?,twelve,No
+Whistling antarctic blizzard.wav,how many times is the tap heard from the large metal piece?,folding,No
+lackey070329_11_52_am_jackhammer.wav,how many times does the tool turn off and on again?,four,Yes
+lackey070329_11_52_am_jackhammer.wav,how many times does the tool turn off and on again?,four,Yes
+lackey070329_11_52_am_jackhammer.wav,how many times does the tool turn off and on again?,four,Yes
+Strong Wind through leaves.wav,How many times does the sound get louder?,three,Yes
+Strong Wind through leaves.wav,How many times does the sound get louder?,three,Yes
+Strong Wind through leaves.wav,How many times does the sound get louder?,three,Maybe
+door-knock-open-close-wooden_close.wav,How many times is the door being knocked on?,nine,Yes
+door-knock-open-close-wooden_close.wav,How many times is the door being knocked on?,thirtyfive,Maybe
+door-knock-open-close-wooden_close.wav,How many times is the door being knocked on?,fifty,No
+Pet Store Ambience.wav,How many times is the creaking sound made?,once,Maybe
+Pet Store Ambience.wav,How many times is the creaking sound made?,two,Maybe
+Pet Store Ambience.wav,How many times is the creaking sound made?,none,Yes
+driving on Mcgalliard.wav,How many vehicles pass by?,one,Yes
+driving on Mcgalliard.wav,How many vehicles pass by?,fourteen,Maybe
+driving on Mcgalliard.wav,How many vehicles pass by?,two,Maybe
+metal door creaking loud2 (borQue).wav,How many separate creaking noises are made?,more,Maybe
+metal door creaking loud2 (borQue).wav,How many separate creaking noises are made?,four,Yes
+metal door creaking loud2 (borQue).wav,How many separate creaking noises are made?,four,Yes
+birds-Udaipur-Saheliyon-Ki-Bari.wav,How many birds are there?,many,Maybe
+birds-Udaipur-Saheliyon-Ki-Bari.wav,How many birds are there?,three,Maybe
+birds-Udaipur-Saheliyon-Ki-Bari.wav,How many birds are there?,four,Yes
+Tortured Apple 01.wav,How many times is the cutting sound made?,three,No
+Tortured Apple 01.wav,How many times is the cutting sound made?,seven,Yes
+Tortured Apple 01.wav,How many times is the cutting sound made?,two,Yes
+latenighttraffic.wav,How many different cars are driving past?,five,No
+latenighttraffic.wav,How many different cars are driving past?,two,Maybe
+latenighttraffic.wav,How many different cars are driving past?,five,Maybe
+latenighttraffic.wav,How many times does this recording have static?,two,Maybe
+latenighttraffic.wav,How many times does this recording have static?,three,Yes
+latenighttraffic.wav,How many times does this recording have static?,zero,Yes
+Printing Press 4.wav,How many repetitions are there of this cyclical noise?,fifteen,Yes
+Printing Press 4.wav,How many repetitions are there of this cyclical noise?,twenty,Yes
+Printing Press 4.wav,How many repetitions are there of this cyclical noise?,many,Maybe
+Hiss of a Tilley pressurised paraffin (kerosene) lamp.wav,How many times does the audio crack?,zero,Maybe
+Hiss of a Tilley pressurised paraffin (kerosene) lamp.wav,How many times does the audio crack?,none,Yes
+Hiss of a Tilley pressurised paraffin (kerosene) lamp.wav,How many times does the audio crack?,zero,Maybe
+Hiss of a Tilley pressurised paraffin (kerosene) lamp.wav,How many times does the noise stop and start?,one,Maybe
+Hiss of a Tilley pressurised paraffin (kerosene) lamp.wav,How many times does the noise stop and start?,none,Yes
+Hiss of a Tilley pressurised paraffin (kerosene) lamp.wav,How many times does the noise stop and start?,zero,Yes
+SFX- Lavadora Vieja - Hector Bakero.wav,How many times is the sound repeated?,twenty,Maybe
+SFX- Lavadora Vieja - Hector Bakero.wav,How many times is the sound repeated?,twentyone,Maybe
+SFX- Lavadora Vieja - Hector Bakero.wav,How many times is the sound repeated?,twentyfive,Maybe
+"Julian&#39;s Door - open and close, hinge only.wav",how many times does the squeak sound occur?,ten,Maybe
+"Julian&#39;s Door - open and close, hinge only.wav",how many times does the squeak sound occur?,five,Yes
+"Julian&#39;s Door - open and close, hinge only.wav",how many times does the squeak sound occur?,five,Maybe
+Water Pour.wav,How many water taps are open ?,four,No
+Water Pour.wav,How many water taps are open ?,three,Maybe
+Water Pour.wav,How many water taps are open ?,two,Maybe
+Pencil 1.wav,How many times can the sound of something dropping and hitting a hard surface be heard?,five,Maybe
+Pencil 1.wav,How many times can the sound of something dropping and hitting a hard surface be heard?,four,Maybe
+Pencil 1.wav,How many times can the sound of something dropping and hitting a hard surface be heard?,four,Maybe
+Puzzle Pieces Foley Mvmt Wood Slide Up Down 01.wav,how many times is a tap heard?,six,Yes
+Puzzle Pieces Foley Mvmt Wood Slide Up Down 01.wav,how many times is a tap heard?,five,Maybe
+Puzzle Pieces Foley Mvmt Wood Slide Up Down 01.wav,how many times is a tap heard?,three,Maybe
+Footsteps_Sneakers_Wet Sidewalk-01.R.wav,How many steps can be heard?,thirty,Maybe
+Footsteps_Sneakers_Wet Sidewalk-01.R.wav,How many steps can be heard?,thirty,Maybe
+Footsteps_Sneakers_Wet Sidewalk-01.R.wav,How many steps can be heard?,ten,Yes
+cannons from Kronborg castle.wav,how many pounds are there?,bird,Yes
+cannons from Kronborg castle.wav,how many pounds are there?,three,Yes
+cannons from Kronborg castle.wav,how many pounds are there?,four,Maybe
+Metal_Workshop_2.wav,how many times do things collide with other things?,once,Maybe
+Metal_Workshop_2.wav,how many times do things collide with other things?,two,Maybe
+Metal_Workshop_2.wav,how many times do things collide with other things?,two,Yes
+Lakeside.wav,How many birds are there?,twenty,Yes
+Lakeside.wav,How many birds are there?,five,Maybe
+Lakeside.wav,How many birds are there?,two,Yes
+trenecito_maqueta.wav,How many people are heard in conversation?,two,Yes
+trenecito_maqueta.wav,How many people are heard in conversation?,two,Maybe
+trenecito_maqueta.wav,How many people are heard in conversation?,two,No
+Coyote -crickets &amp; dogs in a pine forest mid night .wav,How many different species are making noises ?,two,Yes
+Coyote -crickets &amp; dogs in a pine forest mid night .wav,How many different species are making noises ?,three,Maybe
+Coyote -crickets &amp; dogs in a pine forest mid night .wav,How many different species are making noises ?,two,Yes
+traffic_light_night.wav,How many clicks are there?,twentyfour,Yes
+traffic_light_night.wav,How many clicks are there?,twenty,No
+traffic_light_night.wav,How many clicks are there?,twentythree,Yes
+kricket 1.wav,How many vehicles are heard passing by?,one,Yes
+kricket 1.wav,How many vehicles are heard passing by?,one,Yes
+kricket 1.wav,How many vehicles are heard passing by?,two,Maybe
+Oven 01.wav,How many times was a switch used?,twice,Yes
+Oven 01.wav,How many times was a switch used?,three,Maybe
+Oven 01.wav,How many times was a switch used?,two,Yes
+chemical_wood.wav,How many times does the noise stop and start?,three,Yes
+chemical_wood.wav,How many times does the noise stop and start?,four,Yes
+chemical_wood.wav,How many times does the noise stop and start?,four,Yes
+Long Fuzz.wav,How many different people are audible in this sound clip?,waves,Yes
+Long Fuzz.wav,How many different people are audible in this sound clip?,one,Maybe
+Long Fuzz.wav,How many different people are audible in this sound clip?,four,Maybe
+Long Fuzz.wav,How many pauses are there between the 'breathing'?,three,Yes
+Long Fuzz.wav,How many pauses are there between the 'breathing'?,four,Yes
+Long Fuzz.wav,How many pauses are there between the 'breathing'?,three,Yes
+Spanish pinball machine in bar.wav,How many times does the tapping noise repeat itself?,eleven,Maybe
+Spanish pinball machine in bar.wav,How many times does the tapping noise repeat itself?,twelve,Maybe
+Spanish pinball machine in bar.wav,How many times does the tapping noise repeat itself?,fifteen,Yes
+20091225.rain.01.wav,How loud is the rain?,medium,Yes
+20091225.rain.01.wav,How loud is the rain?,loud,Yes
+20091225.rain.01.wav,How loud is the rain?,heavy,Maybe
+20091225.rain.01.wav,How many water fountains are there ?,one,Maybe
+20091225.rain.01.wav,How many water fountains are there ?,one,Maybe
+20091225.rain.01.wav,How many water fountains are there ?,six,Maybe
+nxSample018.wav,How many times does the lightning strike ?,four,Maybe
+nxSample018.wav,How many times does the lightning strike ?,twentytwo,Yes
+nxSample018.wav,How many times does the lightning strike ?,five,Maybe
+CountrySideSummerEvening.wav,How many dogs are barking?,two,Yes
+CountrySideSummerEvening.wav,How many dogs are barking?,one,Yes
+CountrySideSummerEvening.wav,How many dogs are barking?,two,Maybe
+Wind moderate strong JPN.wav,How many fighter jets are flying ?,one,Maybe
+Wind moderate strong JPN.wav,How many fighter jets are flying ?,one,Maybe
+Wind moderate strong JPN.wav,How many fighter jets are flying ?,four,No
+Train_slow_on_cl_yard.wav,How many times is the machine fired?,once,No
+Train_slow_on_cl_yard.wav,How many times is the machine fired?,ten,Maybe
+Train_slow_on_cl_yard.wav,How many times is the machine fired?,one,No
+Blackcap.wav,How many different birds can be heard?,two,No
+Blackcap.wav,How many different birds can be heard?,five,Maybe
+Blackcap.wav,How many different birds can be heard?,nine,Maybe
+Alexanderplatz talking shouting people.wav,How many times does the man yell?,one,Maybe
+Alexanderplatz talking shouting people.wav,How many times does the man yell?,ten,Maybe
+Alexanderplatz talking shouting people.wav,How many times does the man yell?,one,Yes
+lets_go_to_see_it.wav,How many cars drive by?,one,Maybe
+lets_go_to_see_it.wav,How many cars drive by?,one,Yes
+lets_go_to_see_it.wav,How many cars drive by?,one,Yes
+windy marina.wav,How many clicks are there?,two,Maybe
+windy marina.wav,How many clicks are there?,eight,Maybe
+windy marina.wav,How many clicks are there?,one,Maybe
+arriving_montpellier_by_train.wav,How many different voices can be heard?,five,Maybe
+arriving_montpellier_by_train.wav,How many different voices can be heard?,four,Yes
+arriving_montpellier_by_train.wav,How many different voices can be heard?,four,Yes
+arriving_montpellier_by_train.wav,How many times can a female voice be heard?,four,Maybe
+arriving_montpellier_by_train.wav,How many times can a female voice be heard?,three,Maybe
+arriving_montpellier_by_train.wav,How many times can a female voice be heard?,four,Maybe
+0804_094043 metal grinding or drilling 30secs.wav,How fast does the tool work?,fast,Yes
+0804_094043 metal grinding or drilling 30secs.wav,How fast does the tool work?,fast,Yes
+0804_094043 metal grinding or drilling 30secs.wav,How fast does the tool work?,fast,Yes
+bangalore_zug_steht.wav,does the machine stay steady without variations in how loud it is?,yes,yes
+bangalore_zug_steht.wav,does the machine stay steady without variations in how loud it is?,yes,yes
+bangalore_zug_steht.wav,does the machine stay steady without variations in how loud it is?,yes,yes
+080101-042_pasa el tren.wav,How many people are talking?,two,Yes
+080101-042_pasa el tren.wav,How many people are talking?,two,Maybe
+080101-042_pasa el tren.wav,How many people are talking?,two,Maybe
+BirdCallBackyard2016Long.wav,How many loud birds are there?,two,Yes
+BirdCallBackyard2016Long.wav,How many loud birds are there?,three,Maybe
+BirdCallBackyard2016Long.wav,How many loud birds are there?,two,Maybe
+Grinder.wav,How many times does the alarm clock go off?,five,Yes
+Grinder.wav,How many times does the alarm clock go off?,three,Yes
+Grinder.wav,How many times does the alarm clock go off?,five,Yes
+birds_serres_Auteuil.wav,How many different birds are chirping?,four,Yes
+birds_serres_Auteuil.wav,How many different birds are chirping?,three,No
+birds_serres_Auteuil.wav,How many different birds are chirping?,five,No
+Slowly Walking Downhill on Dry Leaves.wav,How fast is the person moving?,slow,Maybe
+Slowly Walking Downhill on Dry Leaves.wav,How fast is the person moving?,slowly,Yes
+Slowly Walking Downhill on Dry Leaves.wav,How fast is the person moving?,slow,Yes
+Gazpoile_long.wav,How many times is an object being jostled?,once,Maybe
+Gazpoile_long.wav,How many times is an object being jostled?,one,No
+Gazpoile_long.wav,How many times is an object being jostled?,once,Yes
+walking up a wooded hill.wav,How many footsteps are there?,multiple,Maybe
+walking up a wooded hill.wav,How many footsteps are there?,thirty,Maybe
+walking up a wooded hill.wav,How many footsteps are there?,thirty,No
+Dribbling water.wav,How many times is the water turned on then off?,one,Yes
+Dribbling water.wav,How many times is the water turned on then off?,once,Maybe
+Dribbling water.wav,How many times is the water turned on then off?,five,Maybe
+SYnth_NoisesAX9.wav,How many different tones can be heard?,eight,Maybe
+SYnth_NoisesAX9.wav,How many different tones can be heard?,two,No
+SYnth_NoisesAX9.wav,How many different tones can be heard?,ten,No
+Plane flying above.wav,How many birds are there?,five,Maybe
+Plane flying above.wav,How many birds are there?,several,Yes
+Plane flying above.wav,How many birds are there?,two,Maybe
+20060426.marsh.crikets.day.stereo.02.wav,How many different kinds of birds sing?,three,Yes
+20060426.marsh.crikets.day.stereo.02.wav,How many different kinds of birds sing?,two,Yes
+20060426.marsh.crikets.day.stereo.02.wav,How many different kinds of birds sing?,two,Maybe
+San Simeon Beach at Midnight 1.wav,How many times does the water crash?,twelve,Maybe
+San Simeon Beach at Midnight 1.wav,How many times does the water crash?,three,Maybe
+San Simeon Beach at Midnight 1.wav,How many times does the water crash?,two,Maybe
+120720loudestthunder.wav,How is the weather?,thunder,Yes
+120720loudestthunder.wav,How is the weather?,stormy,Yes
+120720loudestthunder.wav,How is the weather?,thunderstorm,Yes
+20161126_rain.74.wav,How many people can be heard talking?,machine,Maybe
+20161126_rain.74.wav,How many people can be heard talking?,one,Maybe
+20161126_rain.74.wav,How many people can be heard talking?,zero,Maybe
+bird.wav,How many birds are there?,one,Yes
+bird.wav,How many birds are there?,zero,Yes
+bird.wav,How many birds are there?,two,Maybe
+"Weight machine, gas resistance.wav",How many things are making noise?,three,Yes
+"Weight machine, gas resistance.wav",How many things are making noise?,machine,Yes
+"Weight machine, gas resistance.wav",How many things are making noise?,six,Maybe
+"Weight machine, gas resistance.wav",How many times does the drill stop?,one,Yes
+"Weight machine, gas resistance.wav",How many times does the drill stop?,seven,No
+"Weight machine, gas resistance.wav",How many times does the drill stop?,ten,No
+India Streets Bangalore City (Tuktuk Ride).wav,how many beeps take place?,twentyone,Maybe
+India Streets Bangalore City (Tuktuk Ride).wav,how many beeps take place?,nine,No
+India Streets Bangalore City (Tuktuk Ride).wav,how many beeps take place?,twenty,Maybe
+Pardelas.wav,How loud is this noise?,louder,Yes
+Pardelas.wav,How loud is this noise?,loud,Yes
+Pardelas.wav,How loud is this noise?,very,Maybe
+Rolling Wind - looping.wav,How many times did a vehicle pass by in the tunnel ?,four,Yes
+Rolling Wind - looping.wav,How many times did a vehicle pass by in the tunnel ?,three,Maybe
+Rolling Wind - looping.wav,How many times did a vehicle pass by in the tunnel ?,three,Yes
+140912-King-Harry-ferry-setting-off.wav,how many bangs are there?,thirty,Maybe
+140912-King-Harry-ferry-setting-off.wav,how many bangs are there?,many,Maybe
+140912-King-Harry-ferry-setting-off.wav,how many bangs are there?,fifteen,Yes
+greece_naxos_white_noise_3.wav,How many dogs are barking?,two,Maybe
+greece_naxos_white_noise_3.wav,How many dogs are barking?,three,Maybe
+greece_naxos_white_noise_3.wav,How many dogs are barking?,two,Maybe
+Signal of the police car.wav,How many times is the noise repeated in the clip?,eight,Yes
+Signal of the police car.wav,How many times is the noise repeated in the clip?,firetruck,Yes
+Signal of the police car.wav,How many times is the noise repeated in the clip?,eight,Maybe
+The Big Circle.wav,how many times does a car horn sound?,two,Maybe
+The Big Circle.wav,how many times does a car horn sound?,three,No
+The Big Circle.wav,how many times does a car horn sound?,once,Yes
+Prep Rally.wav,How many songs can be heard playing?,one,Yes
+Prep Rally.wav,How many songs can be heard playing?,one,Yes
+Prep Rally.wav,How many songs can be heard playing?,one,Yes
+20130406_tourists.06.wav,How many times do people speak over one another?,seven,Maybe
+20130406_tourists.06.wav,How many times do people speak over one another?,five,Yes
+20130406_tourists.06.wav,How many times do people speak over one another?,four,Maybe
+Week Two Task.wav,How many people are chattering?,two,Maybe
+Week Two Task.wav,How many people are chattering?,two,Yes
+Week Two Task.wav,How many people are chattering?,two,Maybe
+Wind-sea 03-091007.wav,How many different vehicles can be heard?,five,Maybe
+Wind-sea 03-091007.wav,How many different vehicles can be heard?,one,Yes
+Wind-sea 03-091007.wav,How many different vehicles can be heard?,two,Yes
+around the yellow Ferrari pt. 1.wav,How many different cars are on the road?,six,No
+around the yellow Ferrari pt. 1.wav,How many different cars are on the road?,six,Maybe
+around the yellow Ferrari pt. 1.wav,How many different cars are on the road?,vehicle,Yes
+Marcher_feuilles.wav,How many hand saw cutting strokes does this person make to cut the wood ?,none,No
+Marcher_feuilles.wav,How many hand saw cutting strokes does this person make to cut the wood ?,twentythree,Maybe
+Marcher_feuilles.wav,How many hand saw cutting strokes does this person make to cut the wood ?,none,Yes
+dull metal.wav,How many taps are heard?,thirtyseven,Yes
+dull metal.wav,How many taps are heard?,forty,No
+dull metal.wav,How many taps are heard?,forty,Maybe
+birds_long.wav,How does the animals making this noise traverse their environment?,fly,Yes
+birds_long.wav,How does the animals making this noise traverse their environment?,bird,Yes
+birds_long.wav,How does the animals making this noise traverse their environment?,flying,Yes
+20060810.peters.clock.02.wav,How many ticks are there?,more,Yes
+20060810.peters.clock.02.wav,How many ticks are there?,ten,Maybe
+20060810.peters.clock.02.wav,How many ticks are there?,seventythree,Maybe
+Class 66 At Aliwal Lane Crossing Whittlesea.wav,How many vehicles are there?,one,Maybe
+Class 66 At Aliwal Lane Crossing Whittlesea.wav,How many vehicles are there?,one,Maybe
+Class 66 At Aliwal Lane Crossing Whittlesea.wav,How many vehicles are there?,one,Maybe
+Ambience birds.wav,How many legs do these animals have?,two,Yes
+Ambience birds.wav,How many legs do these animals have?,two,No
+Ambience birds.wav,How many legs do these animals have?,two,Maybe
+Ambience birds.wav,How many times do these animals make a sound?,hundred,Maybe
+Ambience birds.wav,How many times do these animals make a sound?,many,Maybe
+Ambience birds.wav,How many times do these animals make a sound?,ten,Maybe
+Old Shed Keys.wav,How many attempts does the person make to unlock the door?,five,Maybe
+Old Shed Keys.wav,How many attempts does the person make to unlock the door?,four,Yes
+Old Shed Keys.wav,How many attempts does the person make to unlock the door?,nine,No
+je_creakydoor.wav,How many times does the door open?,three,Maybe
+je_creakydoor.wav,How many times does the door open?,five,Maybe
+je_creakydoor.wav,How many times does the door open?,three,Maybe
+je_creakydoor.wav,How many times is the car trunk being slammed sut ?,three,Maybe
+je_creakydoor.wav,How many times is the car trunk being slammed sut ?,three,Yes
+je_creakydoor.wav,How many times is the car trunk being slammed sut ?,two,Yes
+R09_0013 man singing outside mdo bolhao.wav,How many instruments accompany the singer?,one,Maybe
+R09_0013 man singing outside mdo bolhao.wav,How many instruments accompany the singer?,one,Yes
+R09_0013 man singing outside mdo bolhao.wav,How many instruments accompany the singer?,one,Yes
+Canarian_Bird_In_Cage_Singing_1.wav,How many different types of chirping are heard?,three,Maybe
+Canarian_Bird_In_Cage_Singing_1.wav,How many different types of chirping are heard?,five,Maybe
+Canarian_Bird_In_Cage_Singing_1.wav,How many different types of chirping are heard?,three,Yes
+Cat purring quietly.wav,how many times does the cat make a purring sound?,seven,Yes
+Cat purring quietly.wav,how many times does the cat make a purring sound?,three,Maybe
+Cat purring quietly.wav,how many times does the cat make a purring sound?,three,No
+Montage Maschiene 03.wav,How many copies did the copy machine print?,eleven,Yes
+Montage Maschiene 03.wav,How many copies did the copy machine print?,eleven,Maybe
+Montage Maschiene 03.wav,How many copies did the copy machine print?,eleven,Yes
+Hwy84Westbound2A.wav,How many vehicles are heard passing through the tunnel ?,seven,Yes
+Hwy84Westbound2A.wav,How many vehicles are heard passing through the tunnel ?,six,Maybe
+Hwy84Westbound2A.wav,How many vehicles are heard passing through the tunnel ?,seven,Yes
+Living Room Room Tone.wav,"If someone interacted with this substance, how would they end up?",wet,No
+Living Room Room Tone.wav,"If someone interacted with this substance, how would they end up?",wet,Yes
+Living Room Room Tone.wav,"If someone interacted with this substance, how would they end up?",wet,Maybe
+Clock.Windup.Bell.Antique.wav,How many times is something wound up?,two,Yes
+Clock.Windup.Bell.Antique.wav,How many times is something wound up?,twice,Yes
+Clock.Windup.Bell.Antique.wav,How many times is something wound up?,two,Yes
+TrashCompactor.wav,How many times does the machine open the steam cap to let out steam ?,one,Yes
+TrashCompactor.wav,How many times does the machine open the steam cap to let out steam ?,two,Yes
+TrashCompactor.wav,How many times does the machine open the steam cap to let out steam ?,one,Yes
+Run and Splash 03.wav,How many people is working?,four,No
+Run and Splash 03.wav,How many people is working?,two,Maybe
+Run and Splash 03.wav,How many people is working?,one,Maybe
+Thunder_birds_rain.wav,How is the weather?,raining,Yes
+Thunder_birds_rain.wav,How is the weather?,rainy,Yes
+Thunder_birds_rain.wav,How is the weather?,rainy,Yes
+down stairs running 1.wav,How many times does the jumping pause?,two,Yes
+down stairs running 1.wav,How many times does the jumping pause?,three,Maybe
+down stairs running 1.wav,How many times does the jumping pause?,walking,Yes
+INT Bedroom tone 1.wav,How many times does a horn blow?,zero,Yes
+INT Bedroom tone 1.wav,How many times does a horn blow?,two,Yes
+INT Bedroom tone 1.wav,How many times does a horn blow?,zero,Yes
+30 seconds after (Mike Marsh).wav,how many beeps are heard?,two,Yes
+30 seconds after (Mike Marsh).wav,how many beeps are heard?,three,Yes
+30 seconds after (Mike Marsh).wav,how many beeps are heard?,three,Yes
+crickets in the woods.wav,"How many times does the main sound stop all together after  first hearing it, before the end?",none,Yes
+crickets in the woods.wav,"How many times does the main sound stop all together after  first hearing it, before the end?",zero,Yes
+crickets in the woods.wav,"How many times does the main sound stop all together after  first hearing it, before the end?",three,Maybe
+White River birds 2.wav,How many times does the bird chirp loudly?,five,Yes
+White River birds 2.wav,How many times does the bird chirp loudly?,seven,Maybe
+White River birds 2.wav,How many times does the bird chirp loudly?,nine,Yes
+VNP_thurston_02.wav,How many showers or faucets are on?,one,Maybe
+VNP_thurston_02.wav,How many showers or faucets are on?,one,Yes
+VNP_thurston_02.wav,How many showers or faucets are on?,one,Yes
+granny glissando.wav,How many aircrafts did take off ?,one,Yes
+granny glissando.wav,How many aircrafts did take off ?,one,Maybe
+granny glissando.wav,How many aircrafts did take off ?,one,Maybe
+Door.wav,How many thumps can be heard?,two,Yes
+Door.wav,How many thumps can be heard?,two,Maybe
+Door.wav,How many thumps can be heard?,three,Maybe
+Backhoe.wav,How many vehicles are being operated?,one,Yes
+Backhoe.wav,How many vehicles are being operated?,two,Yes
+Backhoe.wav,How many vehicles are being operated?,one,Maybe
+grifo goteando.wav,How many voices are heard at the end of the sample?,one,Yes
+grifo goteando.wav,How many voices are heard at the end of the sample?,one,Yes
+grifo goteando.wav,How many voices are heard at the end of the sample?,three,Yes
+ResidentialFallNight_crickets.wav,How many types of bugs are making noise?,two,Maybe
+ResidentialFallNight_crickets.wav,How many types of bugs are making noise?,two,Yes
+ResidentialFallNight_crickets.wav,How many types of bugs are making noise?,four,Maybe
+PageFlip5.wav,How many times is the book snapped?,nine,Maybe
+PageFlip5.wav,How many times is the book snapped?,six,No
+PageFlip5.wav,How many times is the book snapped?,seven,Maybe
+Loading old cobbles.wav,How many times does something jingle?,six,No
+Loading old cobbles.wav,How many times does something jingle?,two,Maybe
+Loading old cobbles.wav,How many times does something jingle?,three,Yes
+souffle_me_tallique.wav,How many pauses are there in the sound?,two,Yes
+souffle_me_tallique.wav,How many pauses are there in the sound?,one,Maybe
+souffle_me_tallique.wav,How many pauses are there in the sound?,nine,Maybe
+wood_saw_01.wav,how many people can be heard talking?,none,Maybe
+wood_saw_01.wav,how many people can be heard talking?,none,Yes
+wood_saw_01.wav,how many people can be heard talking?,none,Yes
+1990 repetition brass-band 01.wav,How many musical instruments are being played?,three,No
+1990 repetition brass-band 01.wav,How many musical instruments are being played?,race,Yes
+1990 repetition brass-band 01.wav,How many musical instruments are being played?,four,No
+dishes rattle.wav,how many times is there shaking?,five,Yes
+dishes rattle.wav,how many times is there shaking?,configuration,Yes
+dishes rattle.wav,how many times is there shaking?,five,Maybe
+Dog Barking .wav,How many times does the dog bark?,fifteen,Yes
+Dog Barking .wav,How many times does the dog bark?,sixteen,Yes
+Dog Barking .wav,How many times does the dog bark?,sixteen,Yes
+strange_parrot.wav,How many times does the animal make noise?,three,Maybe
+strange_parrot.wav,How many times does the animal make noise?,one,Maybe
+strange_parrot.wav,How many times does the animal make noise?,four,Yes
+OsFnHhVsDoors.wav,How many low pitched bangs are there?,eight,Maybe
+OsFnHhVsDoors.wav,How many low pitched bangs are there?,six,No
+OsFnHhVsDoors.wav,How many low pitched bangs are there?,four,Yes
+CONSTRUCTION SAW.wav,How is this machine powered?,electricity,Maybe
+CONSTRUCTION SAW.wav,How is this machine powered?,electricity,Yes
+CONSTRUCTION SAW.wav,How is this machine powered?,people,Maybe
+hort.wav,How many different voices are there?,one,Yes
+hort.wav,How many different voices are there?,one,Yes
+hort.wav,How many different voices are there?,one,Yes
+Heavy Rain in the suburbs.wav,How many instances of thunder can be heard?,seven,Yes
+Heavy Rain in the suburbs.wav,How many instances of thunder can be heard?,three,Yes
+Heavy Rain in the suburbs.wav,How many instances of thunder can be heard?,two,Maybe
+shaking and opening a water bottle.wav,How is the weather here?,raining,Maybe
+shaking and opening a water bottle.wav,How is the weather here?,raining,Yes
+shaking and opening a water bottle.wav,How is the weather here?,raining,Yes
+bowling_basin_2.wav,How many clicks are there in the recording?,twelve,Yes
+bowling_basin_2.wav,How many clicks are there in the recording?,eighteen,Maybe
+bowling_basin_2.wav,How many clicks are there in the recording?,fifteen,Maybe
+bm_lampshade.wav,How many times does the instrument gong?,six,Yes
+bm_lampshade.wav,How many times does the instrument gong?,six,Yes
+bm_lampshade.wav,How many times does the instrument gong?,six,Yes
+04-Bakken_GamblingMachines_Hall.wav,How many kids are heard screaming?,two,Maybe
+04-Bakken_GamblingMachines_Hall.wav,How many kids are heard screaming?,two,Maybe
+04-Bakken_GamblingMachines_Hall.wav,How many kids are heard screaming?,one,Maybe
+04-Bakken_GamblingMachines_Hall.wav,How many people can be heard laughing?,one,Maybe
+04-Bakken_GamblingMachines_Hall.wav,How many people can be heard laughing?,one,Yes
+04-Bakken_GamblingMachines_Hall.wav,How many people can be heard laughing?,one,Yes
+Schnelllauferpresse 01.wav,how many times is the pound heard?,fourty,Yes
+Schnelllauferpresse 01.wav,how many times is the pound heard?,fifty,Yes
+Schnelllauferpresse 01.wav,how many times is the pound heard?,fifty,Maybe
+Boiler and kitchen hood.wav,how often does the steady ambient loudness stop and start again?,never,Yes
+Boiler and kitchen hood.wav,how often does the steady ambient loudness stop and start again?,none,Yes
+Boiler and kitchen hood.wav,how often does the steady ambient loudness stop and start again?,zero,Yes
+FR.BirdChatAmbience.26.wav,How many birds are making noise?,ten,Yes
+FR.BirdChatAmbience.26.wav,How many birds are making noise?,many,Yes
+FR.BirdChatAmbience.26.wav,How many birds are making noise?,bird,Yes
+FR.BirdChatAmbience.26.wav,How many different chirps does the bird make?,five,Maybe
+FR.BirdChatAmbience.26.wav,How many different chirps does the bird make?,eight,No
+FR.BirdChatAmbience.26.wav,How many different chirps does the bird make?,nine,Yes
+Bottle Open Pour Fizz.wav,how many times does something get poured?,one,Yes
+Bottle Open Pour Fizz.wav,how many times does something get poured?,once,Yes
+Bottle Open Pour Fizz.wav,how many times does something get poured?,once,Yes
+Nordschleife_Vorkriegsrennwagen_1.wav,How many wheels does one of these have?,two,Yes
+Nordschleife_Vorkriegsrennwagen_1.wav,How many wheels does one of these have?,four,Yes
+Nordschleife_Vorkriegsrennwagen_1.wav,How many wheels does one of these have?,seven,Maybe
+Echo Garage Door.wav,how many times does the noise repeat?,two,No
+Echo Garage Door.wav,how many times does the noise repeat?,three,Yes
+Echo Garage Door.wav,how many times does the noise repeat?,three,Yes
+Wood Floor.wav,How many steps can be heard?,sixteen,Maybe
+Wood Floor.wav,How many steps can be heard?,seven,No
+Wood Floor.wav,How many steps can be heard?,nine,Maybe
+Wood Floor.wav,how many times does the creak happen?,twice,Yes
+Wood Floor.wav,how many times does the creak happen?,two,Maybe
+Wood Floor.wav,how many times does the creak happen?,five,Maybe
+Footsteps_Squeeky_Wood.wav,how many footsteps are there?,sixteen,Yes
+Footsteps_Squeeky_Wood.wav,how many footsteps are there?,fourteen,Yes
+Footsteps_Squeeky_Wood.wav,how many footsteps are there?,fifteen,Yes
+20090105.crowd.drums.wav,How many times are the drums beaten?,five,Yes
+20090105.crowd.drums.wav,How many times are the drums beaten?,thirty,Maybe
+20090105.crowd.drums.wav,How many times are the drums beaten?,three,No
+20090105.crowd.drums.wav,How many times does the entire crowd exclaim the same chant in unison?,one,Maybe
+20090105.crowd.drums.wav,How many times does the entire crowd exclaim the same chant in unison?,once,Yes
+20090105.crowd.drums.wav,How many times does the entire crowd exclaim the same chant in unison?,one,Maybe
+charles shurz park.wav,How many machines are making sounds?,three,No
+charles shurz park.wav,How many machines are making sounds?,many,Yes
+charles shurz park.wav,How many machines are making sounds?,two,Maybe
+"Cruiseship - inside, crew cabin at night.wav",How many times is the tapping noise heard ?,six,Maybe
+"Cruiseship - inside, crew cabin at night.wav",How many times is the tapping noise heard ?,three,Maybe
+"Cruiseship - inside, crew cabin at night.wav",How many times is the tapping noise heard ?,three,No
+20091224.bells.02.wav,how many times does the bell sound?,twentysix,Yes
+20091224.bells.02.wav,how many times does the bell sound?,twenty,Yes
+20091224.bells.02.wav,how many times does the bell sound?,twentyfive,No
+Ocean breeze - wind howling.wav,How many people are breathing?,one,Yes
+Ocean breeze - wind howling.wav,How many people are breathing?,one,Maybe
+Ocean breeze - wind howling.wav,How many people are breathing?,one,Maybe
+Metal spoon on china plate.wav,How many objects are being held?,two,Maybe
+Metal spoon on china plate.wav,How many objects are being held?,two,Maybe
+Metal spoon on china plate.wav,How many objects are being held?,one,Yes
+Crow noise.wav,how many times does the bird squawk?,sixteen,Yes
+Crow noise.wav,how many times does the bird squawk?,sixteen,Yes
+Crow noise.wav,how many times does the bird squawk?,seventeen,Yes
+Remix of 101980__pyr0x__growl_variants.wav,How many times is there breathing or snoring?,six,Yes
+Remix of 101980__pyr0x__growl_variants.wav,How many times is there breathing or snoring?,six,Yes
+Remix of 101980__pyr0x__growl_variants.wav,How many times is there breathing or snoring?,six,Yes
+Street cleaning.wav,How many times can a moving vehicle be heard?,four,Maybe
+Street cleaning.wav,How many times can a moving vehicle be heard?,twelve,Maybe
+Street cleaning.wav,How many times can a moving vehicle be heard?,three,Maybe
+Rain_Falling_On_Umbrella.wav,How loud is it?,moderately,Yes
+Rain_Falling_On_Umbrella.wav,How loud is it?,loud,Yes
+Rain_Falling_On_Umbrella.wav,How loud is it?,quiet,Yes
+Outside01.wav,How many animal noises can be heard?,one,Maybe
+Outside01.wav,How many animal noises can be heard?,zero,Maybe
+Outside01.wav,How many animal noises can be heard?,none,Yes
+Outside01.wav,How many human voices are there?,one,Yes
+Outside01.wav,How many human voices are there?,one,Yes
+Outside01.wav,How many human voices are there?,one,Maybe
+Giant 1.wav,How many times is there snorting?,four,Maybe
+Giant 1.wav,How many times is there snorting?,three,Yes
+Giant 1.wav,How many times is there snorting?,once,No
+cars_pass_01_070812.wav,How many cars can be heard?,two,Yes
+cars_pass_01_070812.wav,How many cars can be heard?,two,Yes
+cars_pass_01_070812.wav,How many cars can be heard?,three,Maybe
+Train Station Loudspeakers.wav,How many separate voices can be heard?,three,Maybe
+Train Station Loudspeakers.wav,How many separate voices can be heard?,two,Maybe
+Train Station Loudspeakers.wav,How many separate voices can be heard?,two,Maybe
+Sound_Of_Sea_In_Harbour.wav,How far away are the people?,very,Yes
+Sound_Of_Sea_In_Harbour.wav,How far away are the people?,far,Maybe
+Sound_Of_Sea_In_Harbour.wav,How far away are the people?,close,Maybe
+Seashore Atmos LW2.wav,How many vehicles are heard?,two,Maybe
+Seashore Atmos LW2.wav,How many vehicles are heard?,two,Yes
+Seashore Atmos LW2.wav,How many vehicles are heard?,two,Yes
+"bistro, ambient noise, talking.wav",How many people can be heard?,four,Yes
+"bistro, ambient noise, talking.wav",How many people can be heard?,six,No
+"bistro, ambient noise, talking.wav",How many people can be heard?,four,Maybe
+crow_magpie_ambience_1.wav,How many birds are making noise?,six,Maybe
+crow_magpie_ambience_1.wav,How many birds are making noise?,two,Yes
+crow_magpie_ambience_1.wav,How many birds are making noise?,sound,Yes
+Door Handle and Lock.wav,How many objects is the person using?,three,Maybe
+Door Handle and Lock.wav,How many objects is the person using?,two,Maybe
+Door Handle and Lock.wav,How many objects is the person using?,four,Maybe
+TOWN_CAR_START.wav,How many people are talking?,two,Maybe
+TOWN_CAR_START.wav,How many people are talking?,one,Yes
+TOWN_CAR_START.wav,How many people are talking?,one,No
+TOWN_CAR_START.wav,How many vehicles can be heard?,two,Yes
+TOWN_CAR_START.wav,How many vehicles can be heard?,one,Yes
+TOWN_CAR_START.wav,How many vehicles can be heard?,one,Yes
+Soft rain in Berlin with thunder in background.wav,How is the weather?,clouds,Maybe
+Soft rain in Berlin with thunder in background.wav,How is the weather?,rainy,Yes
+Soft rain in Berlin with thunder in background.wav,How is the weather?,rainy,Yes
+Soft rain in Berlin with thunder in background.wav,How many times can metal impact sound be heard ?,once,Yes
+Soft rain in Berlin with thunder in background.wav,How many times can metal impact sound be heard ?,two,Maybe
+Soft rain in Berlin with thunder in background.wav,How many times can metal impact sound be heard ?,one,Yes
+FP_Flock_of_Birds.wav,How many objects are making noise?,one,Maybe
+FP_Flock_of_Birds.wav,How many objects are making noise?,one,Maybe
+FP_Flock_of_Birds.wav,How many objects are making noise?,one,Maybe
+Lake At Night.wav,how many insects are audible?,three,Maybe
+Lake At Night.wav,how many insects are audible?,two,No
+Lake At Night.wav,how many insects are audible?,twenty,No
+Cornell Big Cheer.wav,How many distinctive womanly screams can be heard in the recording?,three,Maybe
+Cornell Big Cheer.wav,How many distinctive womanly screams can be heard in the recording?,five,Maybe
+Cornell Big Cheer.wav,How many distinctive womanly screams can be heard in the recording?,none,Yes
+Seagulls 1.wav,How many birds are making noise?,five,No
+Seagulls 1.wav,How many birds are making noise?,two,Yes
+Seagulls 1.wav,How many birds are making noise?,two,Yes
+Deltic Diesel Train Departure~Irwell Vale Halt~Bury.wav,How many times does the whistle blow?,one,Yes
+Deltic Diesel Train Departure~Irwell Vale Halt~Bury.wav,How many times does the whistle blow?,once,Yes
+Deltic Diesel Train Departure~Irwell Vale Halt~Bury.wav,How many times does the whistle blow?,once,Yes
+Bonnet Macaque Alarm Call @ GoaMarch 9 2013.wav,How many times the the animal make its loud sound?,seven,Maybe
+Bonnet Macaque Alarm Call @ GoaMarch 9 2013.wav,How many times the the animal make its loud sound?,eight,Yes
+Bonnet Macaque Alarm Call @ GoaMarch 9 2013.wav,How many times the the animal make its loud sound?,eight,Maybe
+Train_LightRail_By_T0147.wav,How many times does the bell ring?,three,Yes
+Train_LightRail_By_T0147.wav,How many times does the bell ring?,five,Maybe
+Train_LightRail_By_T0147.wav,How many times does the bell ring?,eleven,Maybe
+Street Seller in Mexico City. Tights for girls.wav,How many voices are there?,three,Maybe
+Street Seller in Mexico City. Tights for girls.wav,How many voices are there?,one,Yes
+Street Seller in Mexico City. Tights for girls.wav,How many voices are there?,one,Yes
+Door opening_closing.wav,How many times is the door slammed?,four,Yes
+Door opening_closing.wav,How many times is the door slammed?,six,Maybe
+Door opening_closing.wav,How many times is the door slammed?,four,Yes
+rim of woods farmland people far NL 01 151003_0804 ST.wav,how many birds can be heard?,three,Maybe
+rim of woods farmland people far NL 01 151003_0804 ST.wav,how many birds can be heard?,one,Maybe
+rim of woods farmland people far NL 01 151003_0804 ST.wav,how many birds can be heard?,three,Maybe
+05-Bakken_Distant-Ambience.wav,How many times can a click noise be heard ?,three,Maybe
+05-Bakken_Distant-Ambience.wav,How many times can a click noise be heard ?,six,Maybe
+05-Bakken_Distant-Ambience.wav,How many times can a click noise be heard ?,four,Maybe
+el sonido del arbol y la tierra yerlin .wav,How many different voices are there?,five,Maybe
+el sonido del arbol y la tierra yerlin .wav,How many different voices are there?,five,Yes
+el sonido del arbol y la tierra yerlin .wav,How many different voices are there?,four,Maybe
+TrainAmbience(Mix).wav,How many different voices are heard?,three,Yes
+TrainAmbience(Mix).wav,How many different voices are heard?,three,Maybe
+TrainAmbience(Mix).wav,How many different voices are heard?,three,Maybe
+20060426.marsh.house.ambiance.wav,How many different birds are making noise?,three,Yes
+20060426.marsh.house.ambiance.wav,How many different birds are making noise?,five,Maybe
+20060426.marsh.house.ambiance.wav,How many different birds are making noise?,six,No
+ocean_cape.wav,How many times do the waves crash?,three,Yes
+ocean_cape.wav,How many times do the waves crash?,three,Yes
+ocean_cape.wav,How many times do the waves crash?,four,Yes
+ocean_cape.wav,How waves are there?,smooth,Maybe
+ocean_cape.wav,How waves are there?,two,Maybe
+ocean_cape.wav,How waves are there?,two,Maybe
+cat_drinking.wav,How many pauses was there in-between the water sounds?,two,Yes
+cat_drinking.wav,How many pauses was there in-between the water sounds?,five,Yes
+cat_drinking.wav,How many pauses was there in-between the water sounds?,four,Yes
+"01-31 Footsteps, Wood, Barefoot, Jumps &amp; Scuffs.wav",How many objects were dropped?,three,Maybe
+"01-31 Footsteps, Wood, Barefoot, Jumps &amp; Scuffs.wav",How many objects were dropped?,three,Yes
+"01-31 Footsteps, Wood, Barefoot, Jumps &amp; Scuffs.wav",How many objects were dropped?,three,Maybe
+OldCarHornsAndSirens.wav,How many honks can be heard?,four,Yes
+OldCarHornsAndSirens.wav,How many honks can be heard?,two,Maybe
+OldCarHornsAndSirens.wav,How many honks can be heard?,two,Maybe
+Shaking and dragging of jar with stones.wav,How many objects roll at one time?,one,Maybe
+Shaking and dragging of jar with stones.wav,How many objects roll at one time?,two,Maybe
+Shaking and dragging of jar with stones.wav,How many objects roll at one time?,three,Maybe
+Gravel_Sand Walking 2.wav,How many slicing strokes that this person make to cut carrots ?,twentysix,Maybe
+Gravel_Sand Walking 2.wav,How many slicing strokes that this person make to cut carrots ?,twentyfour,Maybe
+Gravel_Sand Walking 2.wav,How many slicing strokes that this person make to cut carrots ?,nineteen,Maybe
+Gravel_Sand Walking 2.wav,How many steps does the person make?,twenty,Maybe
+Gravel_Sand Walking 2.wav,How many steps does the person make?,twenty,Maybe
+Gravel_Sand Walking 2.wav,How many steps does the person make?,twentyfour,Maybe
+under flyover_300513.wav,How many birds are going back and forth with each other?,two,Yes
+under flyover_300513.wav,How many birds are going back and forth with each other?,two,Maybe
+under flyover_300513.wav,How many birds are going back and forth with each other?,three,Yes
+Lake Wars_extract.wav,how many laser blasts are there?,fifty,Maybe
+Lake Wars_extract.wav,how many laser blasts are there?,thirteen,Maybe
+Lake Wars_extract.wav,how many laser blasts are there?,seven,Yes
+market2.wav,How many voices are heard?,three,Yes
+market2.wav,How many voices are heard?,six,Maybe
+market2.wav,How many voices are heard?,four,Maybe
+"Wind, Soft. Crickets.wav",How calm is this?,very,Yes
+"Wind, Soft. Crickets.wav",How calm is this?,very,Maybe
+"Wind, Soft. Crickets.wav",How calm is this?,very,Yes
+Dawn chorus - Makvaneti.wav,How many different animals can be heard?,two,Yes
+Dawn chorus - Makvaneti.wav,How many different animals can be heard?,birds,Yes
+Dawn chorus - Makvaneti.wav,How many different animals can be heard?,three,Yes
+2 08 Br Lib 2 amb kids.wav,How many times does the child stomp?,thirteen,No
+2 08 Br Lib 2 amb kids.wav,How many times does the child stomp?,seven,Yes
+2 08 Br Lib 2 amb kids.wav,How many times does the child stomp?,eleven,Maybe
+2 08 Br Lib 2 amb kids.wav,How may different people are heard talking ?,three,No
+2 08 Br Lib 2 amb kids.wav,How may different people are heard talking ?,three,Maybe
+2 08 Br Lib 2 amb kids.wav,How may different people are heard talking ?,four,Maybe
+weird rapidbeat.wav,How many times did it sound like the machine was going around?,forty,Maybe
+weird rapidbeat.wav,How many times did it sound like the machine was going around?,six,Yes
+weird rapidbeat.wav,How many times did it sound like the machine was going around?,fifty,Maybe
+Kitchen Clock Ticking 2.wav,how many times does the clock tick?,nineteen,Maybe
+Kitchen Clock Ticking 2.wav,how many times does the clock tick?,nineteen,Yes
+Kitchen Clock Ticking 2.wav,how many times does the clock tick?,nineteen,Yes
+Thunder - Guangzhou - China - Quiet.wav,How many times does it thunder?,two,Maybe
+Thunder - Guangzhou - China - Quiet.wav,How many times does it thunder?,two,Yes
+Thunder - Guangzhou - China - Quiet.wav,How many times does it thunder?,two,Yes
+Atmo Wartehalle2.wav,How many hand claps are there?,three,Yes
+Atmo Wartehalle2.wav,How many hand claps are there?,three,Yes
+Atmo Wartehalle2.wav,How many hand claps are there?,three,Yes
+propplaneflyover.wav,How fast does the engine move?,fast,Maybe
+propplaneflyover.wav,How fast does the engine move?,fast,No
+propplaneflyover.wav,How fast does the engine move?,medium,Maybe
+Pas sur le sol.wav,how many steps are taken?,sixty,Yes
+Pas sur le sol.wav,how many steps are taken?,five,Maybe
+Pas sur le sol.wav,how many steps are taken?,thirtyfive,Maybe
+Shower and walk - front.wav,"How many times is there another distinct sound, that is NOT the rain?",one,Yes
+Shower and walk - front.wav,"How many times is there another distinct sound, that is NOT the rain?",two,Maybe
+Shower and walk - front.wav,"How many times is there another distinct sound, that is NOT the rain?",two,Maybe
+SamyeLing_Pheasant121102.wav,How many barks are there?,none,Maybe
+SamyeLing_Pheasant121102.wav,How many barks are there?,six,Maybe
+SamyeLing_Pheasant121102.wav,How many barks are there?,six,Yes
+SamyeLing_Pheasant121102.wav,How many legs does this animal have?,four,Maybe
+SamyeLing_Pheasant121102.wav,How many legs does this animal have?,four,No
+SamyeLing_Pheasant121102.wav,How many legs does this animal have?,two,Yes
+wooden boat row water.wav,How many times does the person row?,one,Maybe
+wooden boat row water.wav,How many times does the person row?,eleven,Yes
+wooden boat row water.wav,How many times does the person row?,four,No
+Air condition running.wav,How many times does the motor rotate?,many,Maybe
+Air condition running.wav,How many times does the motor rotate?,sixty,No
+Air condition running.wav,How many times does the motor rotate?,forty,No
+train accelerating on trestle.wav,How many times does the machine accelerate?,twice,Yes
+train accelerating on trestle.wav,How many times does the machine accelerate?,twice,Yes
+train accelerating on trestle.wav,How many times does the machine accelerate?,two,Yes
+outdoor ambience city union square park voices footsteps distant traffic.wav,How many foot steps can be heard?,sixteen,Maybe
+outdoor ambience city union square park voices footsteps distant traffic.wav,How many foot steps can be heard?,none,Maybe
+outdoor ambience city union square park voices footsteps distant traffic.wav,How many foot steps can be heard?,three,Maybe
+20061224.car.starting.wav,How many clicking sounds before the vehicle starts?,two,Yes
+20061224.car.starting.wav,How many clicking sounds before the vehicle starts?,two,Maybe
+20061224.car.starting.wav,How many clicking sounds before the vehicle starts?,two,Maybe
+Rain at the city window - 44.1kHz16Bit - XYStereo - TASCAM - DR40 - intMic - normalized - fade in and fade out.wav,How is the weather?,raining,Yes
+Rain at the city window - 44.1kHz16Bit - XYStereo - TASCAM - DR40 - intMic - normalized - fade in and fade out.wav,How is the weather?,raining,Yes
+Rain at the city window - 44.1kHz16Bit - XYStereo - TASCAM - DR40 - intMic - normalized - fade in and fade out.wav,How is the weather?,rainy,Yes
+Rain at the city window - 44.1kHz16Bit - XYStereo - TASCAM - DR40 - intMic - normalized - fade in and fade out.wav,How many cars pass by on the wet road?,one,Maybe
+Rain at the city window - 44.1kHz16Bit - XYStereo - TASCAM - DR40 - intMic - normalized - fade in and fade out.wav,How many cars pass by on the wet road?,one,Yes
+Rain at the city window - 44.1kHz16Bit - XYStereo - TASCAM - DR40 - intMic - normalized - fade in and fade out.wav,How many cars pass by on the wet road?,one,Maybe
+banging_metal_cabinet.wav,How many times can the hammering sound be heard ?,eighteen,Yes
+banging_metal_cabinet.wav,How many times can the hammering sound be heard ?,twenty,No
+banging_metal_cabinet.wav,How many times can the hammering sound be heard ?,fifteen,Maybe
+book_light_noise.wav,How many pages get flipped through?,many,Maybe
+book_light_noise.wav,How many pages get flipped through?,twenty,No
+book_light_noise.wav,How many pages get flipped through?,twentyeight,Maybe
+waves.wav,how many waves take place?,fifteen,Yes
+waves.wav,how many waves take place?,eight,Yes
+waves.wav,how many waves take place?,fourteen,Yes
+wood1.wav,How many logs were cut?,twelve,Maybe
+wood1.wav,How many logs were cut?,sixteen,Maybe
+wood1.wav,How many logs were cut?,seven,Maybe
+wood1.wav,How many steps were taken?,nine,Yes
+wood1.wav,How many steps were taken?,fourteen,Maybe
+wood1.wav,How many steps were taken?,fifteen,Yes
+Stairwell with echo Front.wav,How many steps does the person take?,twentysix,Maybe
+Stairwell with echo Front.wav,How many steps does the person take?,five,Maybe
+Stairwell with echo Front.wav,How many steps does the person take?,twentysix,Maybe
+"Kingdoms of the Night (A Virtual Walk-Through of the Swamp, Sans Feet.wav",How many animals are making noise?,five,Maybe
+"Kingdoms of the Night (A Virtual Walk-Through of the Swamp, Sans Feet.wav",How many animals are making noise?,none,Yes
+"Kingdoms of the Night (A Virtual Walk-Through of the Swamp, Sans Feet.wav",How many animals are making noise?,two,Maybe
+Bedroom Door Knocks.wav,How many knocks are there?,thirtyeight,Yes
+Bedroom Door Knocks.wav,How many knocks are there?,twentythree,Yes
+Bedroom Door Knocks.wav,How many knocks are there?,thirtyone,Maybe
+Elevator sounds.wav,How many beeps occur?,two,Yes
+Elevator sounds.wav,How many beeps occur?,two,Yes
+Elevator sounds.wav,How many beeps occur?,two,Yes
+Elevator sounds.wav,How many people's footsteps can be heard?,two,Maybe
+Elevator sounds.wav,How many people's footsteps can be heard?,one,Yes
+Elevator sounds.wav,How many people's footsteps can be heard?,four,Yes
+CoinSpin.wav,How many times is the item dropped?,twice,Yes
+CoinSpin.wav,How many times is the item dropped?,two,Maybe
+CoinSpin.wav,How many times is the item dropped?,zero,Maybe
+Cable rustling 1-01.R.wav,How many people are heard?,two,Yes
+Cable rustling 1-01.R.wav,How many people are heard?,two,Yes
+Cable rustling 1-01.R.wav,How many people are heard?,two,Yes
+immersion in a bath and getting out of the bath.wav,How many taps do they have in the room?,five,Yes
+immersion in a bath and getting out of the bath.wav,How many taps do they have in the room?,two,Maybe
+immersion in a bath and getting out of the bath.wav,How many taps do they have in the room?,one,Yes
+immersion in a bath and getting out of the bath.wav,How many times is the water splashed?,nine,No
+immersion in a bath and getting out of the bath.wav,How many times is the water splashed?,two,Yes
+immersion in a bath and getting out of the bath.wav,How many times is the water splashed?,two,Yes
+ClockTicking.wav,How many times does the sound repeat?,twentynine,Yes
+ClockTicking.wav,How many times does the sound repeat?,thirty,Maybe
+ClockTicking.wav,How many times does the sound repeat?,thirty,Maybe
+Door creaking.wav,How many objects are making this creaking noise?,one,Yes
+Door creaking.wav,How many objects are making this creaking noise?,one,Yes
+Door creaking.wav,How many objects are making this creaking noise?,one,Yes
+20160302_04.ushuaia.train.wav,How many times is a tapping sound heard?,twelve,No
+20160302_04.ushuaia.train.wav,How many times is a tapping sound heard?,seven,Maybe
+20160302_04.ushuaia.train.wav,How many times is a tapping sound heard?,three,Maybe
+bird-twitter-car.wav,How many times does a vehicle pass by ?,once,Yes
+bird-twitter-car.wav,How many times does a vehicle pass by ?,once,Yes
+bird-twitter-car.wav,How many times does a vehicle pass by ?,once,Yes
+ruffle.wav,How many people are producing sound?,one,Yes
+ruffle.wav,How many people are producing sound?,two,Yes
+ruffle.wav,How many people are producing sound?,one,Maybe
+lungs.wav,How many clicks are there?,one,Maybe
+lungs.wav,How many clicks are there?,one,Maybe
+lungs.wav,How many clicks are there?,one,Yes
+lungs.wav,How many sounds can be heard?,two,Yes
+lungs.wav,How many sounds can be heard?,two,Maybe
+lungs.wav,How many sounds can be heard?,two,Maybe
+tennis ball.wav,how many tap sounds are there?,fifteen,Yes
+tennis ball.wav,how many tap sounds are there?,eight,Yes
+tennis ball.wav,how many tap sounds are there?,fifteen,Yes
+crossing the river.wav,How many people are apparently walking?,one,Maybe
+crossing the river.wav,How many people are apparently walking?,two,Maybe
+crossing the river.wav,How many people are apparently walking?,one,Yes
+crossing the river.wav,How many steps does the person take?,forty,Maybe
+crossing the river.wav,How many steps does the person take?,forty,Maybe
+crossing the river.wav,How many steps does the person take?,forty,Maybe
+outdoors ambient windy wind leaves rustle near airport plane hum.wav,How does the ground likely feel?,wet,Yes
+outdoors ambient windy wind leaves rustle near airport plane hum.wav,How does the ground likely feel?,wet,Yes
+outdoors ambient windy wind leaves rustle near airport plane hum.wav,How does the ground likely feel?,wet,Yes
+outdoors ambient windy wind leaves rustle near airport plane hum.wav,How is the weather here?,rainy,Yes
+outdoors ambient windy wind leaves rustle near airport plane hum.wav,How is the weather here?,raining,Yes
+outdoors ambient windy wind leaves rustle near airport plane hum.wav,How is the weather here?,rainy,Maybe
+05 hn_PittsPennLincoln.wav,How many vehicles can be heard?,two,No
+05 hn_PittsPennLincoln.wav,How many vehicles can be heard?,ten,Yes
+05 hn_PittsPennLincoln.wav,How many vehicles can be heard?,two,Maybe
+underWater001.wav,How many times is this person washing the coffee mug ?,three,Maybe
+underWater001.wav,How many times is this person washing the coffee mug ?,two,Maybe
+underWater001.wav,How many times is this person washing the coffee mug ?,once,Maybe
+Stream Honiton.wav,How many different types of birds are making noises ?,four,Maybe
+Stream Honiton.wav,How many different types of birds are making noises ?,two,Yes
+Stream Honiton.wav,How many different types of birds are making noises ?,five,Maybe
+Walking along Highway.wav,How many steps did the person walking take?,forty,Maybe
+Walking along Highway.wav,How many steps did the person walking take?,twenty,Yes
+Walking along Highway.wav,How many steps did the person walking take?,forty,Maybe
+Walking along Highway.wav,How many vehicles drive down the road?,three,Yes
+Walking along Highway.wav,How many vehicles drive down the road?,three,Yes
+Walking along Highway.wav,How many vehicles drive down the road?,three,Yes
+walking_through_forest_2007_04_15.wav,How many steps are heard?,fourty,Yes
+walking_through_forest_2007_04_15.wav,How many steps are heard?,walking,Yes
+walking_through_forest_2007_04_15.wav,How many steps are heard?,forty,Maybe
+41. hangers on rack.wav,How many times was there a thumping sound?,two,Maybe
+41. hangers on rack.wav,How many times was there a thumping sound?,ten,Maybe
+41. hangers on rack.wav,How many times was there a thumping sound?,three,Yes
+sink3.wav,How many coffee mugs is this person washing ?,three,Yes
+sink3.wav,How many coffee mugs is this person washing ?,one,Maybe
+sink3.wav,How many coffee mugs is this person washing ?,one,Maybe
+bridge.wav,How many times does a car honk?,zero,Yes
+bridge.wav,How many times does a car honk?,drive,Yes
+bridge.wav,How many times does a car honk?,three,Yes
+FootstepsUpstairs.wav,How many times did the footsteps come to a complete stop for more than a couple of seconds?,one,Maybe
+FootstepsUpstairs.wav,How many times did the footsteps come to a complete stop for more than a couple of seconds?,walking,Maybe
+FootstepsUpstairs.wav,How many times did the footsteps come to a complete stop for more than a couple of seconds?,one,Maybe
+Swifts.wav,How do the animals travel around?,walking,Maybe
+Swifts.wav,How do the animals travel around?,flight,Maybe
+Swifts.wav,How do the animals travel around?,flying,Yes
+In Car Driving with Open Window.wav,How many cars passed on the race track ?,one,No
+In Car Driving with Open Window.wav,How many cars passed on the race track ?,five,No
+In Car Driving with Open Window.wav,How many cars passed on the race track ?,two,Maybe
+shopping-cart-rattle.wav,How does the animal respond?,barking,Yes
+shopping-cart-rattle.wav,How does the animal respond?,barking,Yes
+shopping-cart-rattle.wav,How does the animal respond?,barking,Maybe
+shopping-cart-rattle.wav,How many times does the dog bark?,two,Maybe
+shopping-cart-rattle.wav,How many times does the dog bark?,two,Maybe
+shopping-cart-rattle.wav,How many times does the dog bark?,two,Yes
+train_leaving_oloron_sainte_marie.wav,How many times does the hammer bang?,two,Maybe
+train_leaving_oloron_sainte_marie.wav,How many times does the hammer bang?,eight,Maybe
+train_leaving_oloron_sainte_marie.wav,How many times does the hammer bang?,eight,Yes
+Kitchen meal.wav,How many times is a microwave key punched?,five,Yes
+Kitchen meal.wav,How many times is a microwave key punched?,five,Yes
+Kitchen meal.wav,How many times is a microwave key punched?,five,Yes
+20060129.marshes.03.wav,How do these kinds of creatures usually travel?,fly,Yes
+20060129.marshes.03.wav,How do these kinds of creatures usually travel?,flying,Yes
+20060129.marshes.03.wav,How do these kinds of creatures usually travel?,flying,Yes
+Hydrophone_Newport Footbridge Fountains 06.wav,How many legs does the creature that makes a sound in the background have?,four,No
+Hydrophone_Newport Footbridge Fountains 06.wav,How many legs does the creature that makes a sound in the background have?,two,Yes
+Hydrophone_Newport Footbridge Fountains 06.wav,How many legs does the creature that makes a sound in the background have?,zero,Maybe
+tram_enoshima.wav,How many times does the crossing signal make a ding sound?,twentyeight,No
+tram_enoshima.wav,How many times does the crossing signal make a ding sound?,thirty,Maybe
+tram_enoshima.wav,How many times does the crossing signal make a ding sound?,twentyeight,Yes
+Grand Union Canal Kensal Green.wav,How many times does the softest chirping sound repeat?,seven,No
+Grand Union Canal Kensal Green.wav,How many times does the softest chirping sound repeat?,three,No
+Grand Union Canal Kensal Green.wav,How many times does the softest chirping sound repeat?,three,No
+Pushing a metal fence.wav,How many times is the object hit?,sixteen,Yes
+Pushing a metal fence.wav,How many times is the object hit?,seventeen,Maybe
+Pushing a metal fence.wav,How many times is the object hit?,seventeen,Maybe
+Carrer de Pons i Gallarza.wav,how many people are talking?,seven,Maybe
+Carrer de Pons i Gallarza.wav,how many people are talking?,three,Maybe
+Carrer de Pons i Gallarza.wav,how many people are talking?,four,Maybe
+Insects 3 with dog.wav,How many insects are making noise?,four,No
+Insects 3 with dog.wav,How many insects are making noise?,two,Maybe
+Insects 3 with dog.wav,How many insects are making noise?,four,Maybe
+Plastic Drawer Open and Close.wav,How many times is the paper stapled?,eight,Maybe
+Plastic Drawer Open and Close.wav,How many times is the paper stapled?,eight,Maybe
+Plastic Drawer Open and Close.wav,How many times is the paper stapled?,seven,No
+thaitrain.wav,How many different people can be heard talking inside the train ?,one,Maybe
+thaitrain.wav,How many different people can be heard talking inside the train ?,two,Maybe
+thaitrain.wav,How many different people can be heard talking inside the train ?,three,No
+knocking_hammering.wav,How many knocks are heard?,sound,Yes
+knocking_hammering.wav,How many knocks are heard?,three,Yes
+knocking_hammering.wav,How many knocks are heard?,thirtyfive,Yes
+Underwater Noise restless 01 140704_0285.wav,How many human voices can be heard?,zero,Yes
+Underwater Noise restless 01 140704_0285.wav,How many human voices can be heard?,none,Yes
+Underwater Noise restless 01 140704_0285.wav,How many human voices can be heard?,zero,Yes
+Water Splash 01.wav,How many splashes are there?,eight,Yes
+Water Splash 01.wav,How many splashes are there?,eight,Yes
+Water Splash 01.wav,How many splashes are there?,eight,Yes
+swings.wav,How many times does the object go back and forth?,nineteen,Yes
+swings.wav,How many times does the object go back and forth?,nineteen,Yes
+swings.wav,How many times does the object go back and forth?,eleven,Yes
+Eerie Shimmer.wav,How long is the sound?,long,Maybe
+Eerie Shimmer.wav,How long is the sound?,seventeen,Maybe
+Eerie Shimmer.wav,How long is the sound?,mike,Yes
+threejackhammers.wav,How many times does the clicking change tone?,five,Yes
+threejackhammers.wav,How many times does the clicking change tone?,four,Maybe
+threejackhammers.wav,How many times does the clicking change tone?,alot,Yes
+Finch.wav,How many times does the first bird start chirping?,two,Yes
+Finch.wav,How many times does the first bird start chirping?,two,Yes
+Finch.wav,How many times does the first bird start chirping?,two,Yes
+marche1.wav,how many people are talking?,zero,Yes
+marche1.wav,how many people are talking?,two,Yes
+marche1.wav,how many people are talking?,two,Maybe
+Durango-Silverton RR Dec 01 I 24 bit.wav,How many separate times does the whistle blow?,two,Maybe
+Durango-Silverton RR Dec 01 I 24 bit.wav,How many separate times does the whistle blow?,three,Yes
+Durango-Silverton RR Dec 01 I 24 bit.wav,How many separate times does the whistle blow?,three,Yes
+Wall Clock Ticking.wav,How many times does the clock tick?,sixteen,Yes
+Wall Clock Ticking.wav,How many times does the clock tick?,sixteen,Yes
+Wall Clock Ticking.wav,How many times does the clock tick?,fifteen,Maybe
+Cornflour Snow.wav,How many times is the squishing sound made?,twentyone,Yes
+Cornflour Snow.wav,How many times is the squishing sound made?,twentyone,Maybe
+Cornflour Snow.wav,How many times is the squishing sound made?,twenty,Yes
+before-after remix of 147507__timmy-h123__sword-draw-02-.wav,How many beeps are there?,two,Yes
+before-after remix of 147507__timmy-h123__sword-draw-02-.wav,How many beeps are there?,two,Yes
+before-after remix of 147507__timmy-h123__sword-draw-02-.wav,How many beeps are there?,two,Yes
+"swimming pool, night, street in background.wav",How is the weather?,rainy,Yes
+"swimming pool, night, street in background.wav",How is the weather?,rainfall,Yes
+"swimming pool, night, street in background.wav",How is the weather?,rainy,Yes
+CamelTalk.wav,How many animals are making noise ?,one,Yes
+CamelTalk.wav,How many animals are making noise ?,one,Yes
+CamelTalk.wav,How many animals are making noise ?,two,Maybe
+construction_rubber_mallet_01.wav,How many bangs are there?,twentyeight,Maybe
+construction_rubber_mallet_01.wav,How many bangs are there?,thirty,Maybe
+construction_rubber_mallet_01.wav,How many bangs are there?,twentyeight,Yes
+bathroomSink2.wav,How many water taps are open ?,five,Maybe
+bathroomSink2.wav,How many water taps are open ?,water,Maybe
+bathroomSink2.wav,How many water taps are open ?,three,Maybe
+BobKessler-Metal Bangs.wav,How many times does the door get hit?,six,Yes
+BobKessler-Metal Bangs.wav,How many times does the door get hit?,six,Yes
+BobKessler-Metal Bangs.wav,How many times does the door get hit?,six,Yes
+Heat.pump.aquaculture.hatchery.wav,How many times does the motor start up?,one,Yes
+Heat.pump.aquaculture.hatchery.wav,How many times does the motor start up?,one,Yes
+Heat.pump.aquaculture.hatchery.wav,How many times does the motor start up?,once,Yes
+footsteps_snow_mono_44_16.wav,How many footsteps are there?,twenty,Maybe
+footsteps_snow_mono_44_16.wav,How many footsteps are there?,twenty,Maybe
+footsteps_snow_mono_44_16.wav,How many footsteps are there?,twentyfour,Maybe
+SD trolley.wav,How many footsteps does the person take?,ten,Maybe
+SD trolley.wav,How many footsteps does the person take?,four,No
+SD trolley.wav,How many footsteps does the person take?,two,No
+Truck Brakes.wav,How many times does the vehicle rev up?,five,Yes
+Truck Brakes.wav,How many times does the vehicle rev up?,five,Yes
+Truck Brakes.wav,How many times does the vehicle rev up?,five,Yes
+birds_oldmen_cafe.wav,How many voices can be heard?,three,Maybe
+birds_oldmen_cafe.wav,How many voices can be heard?,two,Maybe
+birds_oldmen_cafe.wav,How many voices can be heard?,two,Yes
+Highway Ambience.wav,How many different types of vehicles drive by?,three,Maybe
+Highway Ambience.wav,How many different types of vehicles drive by?,three,Yes
+Highway Ambience.wav,How many different types of vehicles drive by?,three,Maybe
+02668 stripwood noises.wav,How many times does an object reverberate against another object?,fifteen,Maybe
+02668 stripwood noises.wav,How many times does an object reverberate against another object?,seven,Maybe
+02668 stripwood noises.wav,How many times does an object reverberate against another object?,ten,Maybe
+Metallic Lingo.wav,How many times is the metal object dropped?,five,Yes
+Metallic Lingo.wav,How many times is the metal object dropped?,five,Maybe
+Metallic Lingo.wav,How many times is the metal object dropped?,twenty,No
+icy_road.wav,How many times is the horn honked?,four,Yes
+icy_road.wav,How many times is the horn honked?,four,Yes
+icy_road.wav,How many times is the horn honked?,one,Yes
+noisy street.wav,How many different sounds can be heard?,five,Maybe
+noisy street.wav,How many different sounds can be heard?,three,Maybe
+noisy street.wav,How many different sounds can be heard?,five,Maybe
+noisy street.wav,How many vehicles are in the area?,three,No
+noisy street.wav,How many vehicles are in the area?,four,Yes
+noisy street.wav,How many vehicles are in the area?,one,Maybe
+College Hallway ambience.wav,Approximately how many people are there?,twelve,No
+College Hallway ambience.wav,Approximately how many people are there?,ten,Maybe
+College Hallway ambience.wav,Approximately how many people are there?,ten,No
+MetalHitRattling.wav,How many times is the whacking sound of the tool heard?,eight,Maybe
+MetalHitRattling.wav,How many times is the whacking sound of the tool heard?,eight,Yes
+MetalHitRattling.wav,How many times is the whacking sound of the tool heard?,eight,Yes
+Village road.wav,How many different dogs are there?,two,Yes
+Village road.wav,How many different dogs are there?,two,Maybe
+Village road.wav,How many different dogs are there?,one,Yes
+Village road.wav,How many vehicles pass?,two,Yes
+Village road.wav,How many vehicles pass?,two,Yes
+Village road.wav,How many vehicles pass?,two,Maybe
+bell_church.wav,how many times does the bell ring?,twentyseven,Yes
+bell_church.wav,how many times does the bell ring?,thirty,Yes
+bell_church.wav,how many times does the bell ring?,thirty,Maybe
+breaking_small_window.wav,How do they break the items?,dropping,Maybe
+breaking_small_window.wav,How do they break the items?,dropping,Yes
+breaking_small_window.wav,How do they break the items?,dropping,No
+breaking_small_window.wav,how many break sounds occur?,ten,Yes
+breaking_small_window.wav,how many break sounds occur?,eight,Yes
+breaking_small_window.wav,how many break sounds occur?,ten,Yes
+ambient wind.wav,How many airplanes can be heard taking off ?,one,Yes
+ambient wind.wav,How many airplanes can be heard taking off ?,one,Yes
+ambient wind.wav,How many airplanes can be heard taking off ?,one,Maybe
+ambient wind.wav,how many people are singing?,zero,Yes
+ambient wind.wav,how many people are singing?,zero,Maybe
+ambient wind.wav,how many people are singing?,none,Yes
+Walking shingle beach.wav,How many steps does the person take?,twentysix,Maybe
+Walking shingle beach.wav,How many steps does the person take?,twenty,Maybe
+Walking shingle beach.wav,How many steps does the person take?,thirty,Yes
+Galactic signal 3.wav,How many times does the air or wind sound cease?,zero,Yes
+Galactic signal 3.wav,How many times does the air or wind sound cease?,zero,Maybe
+Galactic signal 3.wav,How many times does the air or wind sound cease?,two,Yes
+01 barreau bunker original.wav,How many ringing sounds are there?,five,Yes
+01 barreau bunker original.wav,How many ringing sounds are there?,interested,Yes
+01 barreau bunker original.wav,How many ringing sounds are there?,five,Yes
+160170_Wind Blowing door_OWI.wav,How many times does the engine rev?,twice,Yes
+160170_Wind Blowing door_OWI.wav,How many times does the engine rev?,one,Yes
+160170_Wind Blowing door_OWI.wav,How many times does the engine rev?,ten,Maybe
+Wood Steps.wav,How many individual knocks are made?,twentyseven,Maybe
+Wood Steps.wav,How many individual knocks are made?,twentyfive,Maybe
+Wood Steps.wav,How many individual knocks are made?,twenty,Yes
+Marker on Board.wav,How many times does the writing start up?,three,Yes
+Marker on Board.wav,How many times does the writing start up?,three,Yes
+Marker on Board.wav,How many times does the writing start up?,three,Yes
+Gate open and close.wav,How many different people were talking?,two,Maybe
+Gate open and close.wav,How many different people were talking?,two,Yes
+Gate open and close.wav,How many different people were talking?,two,Yes
+B13h35m19s11jan2008.wav,how many times does the can get hit?,seven,Yes
+B13h35m19s11jan2008.wav,how many times does the can get hit?,seven,Yes
+B13h35m19s11jan2008.wav,how many times does the can get hit?,seven,Yes
+airport_ambiance_01.wav,How many people are laughing ?,one,Maybe
+airport_ambiance_01.wav,How many people are laughing ?,one,Yes
+airport_ambiance_01.wav,How many people are laughing ?,one,Yes
+Bird Song.wav,How many different engines can be heard for sure?,two,Maybe
+Bird Song.wav,How many different engines can be heard for sure?,two,Maybe
+Bird Song.wav,How many different engines can be heard for sure?,one,Yes
+Pylone-dans-le-vent-Grenoble.wav,How many times does the engine hiss?,twice,Maybe
+Pylone-dans-le-vent-Grenoble.wav,How many times does the engine hiss?,twice,Yes
+Pylone-dans-le-vent-Grenoble.wav,How many times does the engine hiss?,three,No
+Before-after remix of 117041__joedeshon__keys_in_ignition_warning.wav,how many sets of beeps are there?,two,Yes
+Before-after remix of 117041__joedeshon__keys_in_ignition_warning.wav,how many sets of beeps are there?,twenty,No
+Before-after remix of 117041__joedeshon__keys_in_ignition_warning.wav,how many sets of beeps are there?,two,Yes
+"footsteps (snow, sand)_01.wav",how many footsteps are there?,waking,Yes
+"footsteps (snow, sand)_01.wav",how many footsteps are there?,one,Maybe
+"footsteps (snow, sand)_01.wav",how many footsteps are there?,thirty,Maybe
+Walking On Snow.wav,How man steps can be heard?,fifty,Maybe
+Walking On Snow.wav,How man steps can be heard?,three,Maybe
+Walking On Snow.wav,How man steps can be heard?,twenty,Maybe
+zipper.wav,How is the material fastened together?,lock,Yes
+zipper.wav,How is the material fastened together?,lock,Yes
+zipper.wav,How is the material fastened together?,lock,Yes
+01 A pug struggles to breathe 1.14.2008.wav,How many times does the animal make a noise?,three,Maybe
+01 A pug struggles to breathe 1.14.2008.wav,How many times does the animal make a noise?,six,Maybe
+01 A pug struggles to breathe 1.14.2008.wav,How many times does the animal make a noise?,six,Yes
+vieux fou #1.wav,How many times does the dog bark?,thirty,Yes
+vieux fou #1.wav,How many times does the dog bark?,thirty,Maybe
+vieux fou #1.wav,How many times does the dog bark?,twentyfive,Maybe
+wastecollection.wav,How many times does the machine sound slow down and speed up again?,one,Yes
+wastecollection.wav,How many times does the machine sound slow down and speed up again?,one,Yes
+wastecollection.wav,How many times does the machine sound slow down and speed up again?,once,Yes
+Microwave Door Open Close .wav,How many times does it squeek?,four,Maybe
+Microwave Door Open Close .wav,How many times does it squeek?,two,Maybe
+Microwave Door Open Close .wav,How many times does it squeek?,four,Yes
+Diving Bell 1.wav,How many rings did the bell sound?,one,Yes
+Diving Bell 1.wav,How many rings did the bell sound?,one,Yes
+Diving Bell 1.wav,How many rings did the bell sound?,one,Yes
+Thunder.wav,How many times can the thunder be heard?,two,Maybe
+Thunder.wav,How many times can the thunder be heard?,two,Yes
+Thunder.wav,How many times can the thunder be heard?,one,No
+Paper Unfurl.wav,How many pages have been flipped through?,twenty,Yes
+Paper Unfurl.wav,How many pages have been flipped through?,twenty,Maybe
+Paper Unfurl.wav,How many pages have been flipped through?,thirteen,Maybe
+Motorbike.wav,How many different vehicles are there?,two,Maybe
+Motorbike.wav,How many different vehicles are there?,three,Maybe
+Motorbike.wav,How many different vehicles are there?,one,Maybe
+TOILET FLUSH 2.wav,How many times does the man announce he's going to flush the toilet?,one,Yes
+TOILET FLUSH 2.wav,How many times does the man announce he's going to flush the toilet?,one,Yes
+TOILET FLUSH 2.wav,How many times does the man announce he's going to flush the toilet?,one,Yes
+Metal Bend.wav,How many people are snoring ?,zero,Yes
+Metal Bend.wav,How many people are snoring ?,two,Yes
+Metal Bend.wav,How many people are snoring ?,one,Yes
+Metal Bend.wav,How many times does the scraping sound happen?,nine,Yes
+Metal Bend.wav,How many times does the scraping sound happen?,nine,Yes
+Metal Bend.wav,How many times does the scraping sound happen?,nine,Yes
+crickets Isolated songs 130322_00.wav,how many chirps take place?,twenty,Maybe
+crickets Isolated songs 130322_00.wav,how many chirps take place?,fifty,Maybe
+crickets Isolated songs 130322_00.wav,how many chirps take place?,thirtyeight,Maybe
+20090619.air.conditioner.wav,How many engines are running?,two,Yes
+20090619.air.conditioner.wav,How many engines are running?,one,Yes
+20090619.air.conditioner.wav,How many engines are running?,one,Yes
+20090619.air.conditioner.wav,How many times is this sound interrupted?,none,Yes
+20090619.air.conditioner.wav,How many times is this sound interrupted?,zero,Yes
+20090619.air.conditioner.wav,How many times is this sound interrupted?,zero,Yes
+Ambience - General Farm - 96kHz.wav,How many farm animals are present?,two,Maybe
+Ambience - General Farm - 96kHz.wav,How many farm animals are present?,two,Maybe
+Ambience - General Farm - 96kHz.wav,How many farm animals are present?,two,Maybe
+RG Railing Ring.wav,How many times is the instrument struck?,good,Yes
+RG Railing Ring.wav,How many times is the instrument struck?,three,Maybe
+RG Railing Ring.wav,How many times is the instrument struck?,one,Yes
+Diesel Engines Approaching Cajon Pass.wav,How many times does the locomotive sound it's horn ?,two,Yes
+Diesel Engines Approaching Cajon Pass.wav,How many times does the locomotive sound it's horn ?,two,Yes
+Diesel Engines Approaching Cajon Pass.wav,How many times does the locomotive sound it's horn ?,two,Yes
+Box opened.wav,How many people are talking?,none,Yes
+Box opened.wav,How many people are talking?,zero,Maybe
+Box opened.wav,How many people are talking?,zero,Yes
+Blowing on Microphone.wav,How many people are making the sound?,one,Maybe
+Blowing on Microphone.wav,How many people are making the sound?,one,Yes
+Blowing on Microphone.wav,How many people are making the sound?,one,Maybe
+"traffic medium throaty cars trucks mopeds Havana, Cuba 2008.wav",How many times does a horn honk?,once,Maybe
+"traffic medium throaty cars trucks mopeds Havana, Cuba 2008.wav",How many times does a horn honk?,ten,Maybe
+"traffic medium throaty cars trucks mopeds Havana, Cuba 2008.wav",How many times does a horn honk?,zero,Yes
+rain.gutter.wav,How severe is the rain?,light,Yes
+rain.gutter.wav,How severe is the rain?,light,Yes
+rain.gutter.wav,How severe is the rain?,mild,Maybe
+Foley Footsteps - with processing.wav,How many steps does the person take?,seven,Yes
+Foley Footsteps - with processing.wav,How many steps does the person take?,six,Yes
+Foley Footsteps - with processing.wav,How many steps does the person take?,seven,Yes
+Foley Footsteps - with processing.wav,How many times does this person breath out audibly?,three,Yes
+Foley Footsteps - with processing.wav,How many times does this person breath out audibly?,five,Maybe
+Foley Footsteps - with processing.wav,How many times does this person breath out audibly?,four,Maybe
+Binding my thesis.wav,How many times does the machine make a noise?,five,Yes
+Binding my thesis.wav,How many times does the machine make a noise?,three,Yes
+Binding my thesis.wav,How many times does the machine make a noise?,seven,Yes
+Bathtub_water-gentle-swish.wav,How many separate splashes are there?,seven,Yes
+Bathtub_water-gentle-swish.wav,How many separate splashes are there?,seven,Maybe
+Bathtub_water-gentle-swish.wav,How many separate splashes are there?,seven,Maybe
+20101121.sanlucar.market.wav,How many people  can be hear speaking?,three,Maybe
+20101121.sanlucar.market.wav,How many people  can be hear speaking?,five,Yes
+20101121.sanlucar.market.wav,How many people  can be hear speaking?,many,Maybe
+Noise Monster 7.wav,How many animals are growling?,two,Yes
+Noise Monster 7.wav,How many animals are growling?,two,Maybe
+Noise Monster 7.wav,How many animals are growling?,two,Maybe
+GuardDog1.wav,How many times does the dog bark?,twenty,Maybe
+GuardDog1.wav,How many times does the dog bark?,twenty,Maybe
+GuardDog1.wav,How many times does the dog bark?,sixteen,Maybe
+Trevi noon.wav,how many barks are there?,twelve,Maybe
+Trevi noon.wav,how many barks are there?,eleven,Yes
+Trevi noon.wav,how many barks are there?,twelve,Yes
+medium clap.wav,How many people total spoke a full sentence?,four,Maybe
+medium clap.wav,How many people total spoke a full sentence?,thirteen,Yes
+medium clap.wav,How many people total spoke a full sentence?,two,No
+"Metal pole, dropping, set down, metal ring.wav",does the metal change in how it is hitting a surface?,yes,yes
+"Metal pole, dropping, set down, metal ring.wav",does the metal change in how it is hitting a surface?,yes,yes
+"Metal pole, dropping, set down, metal ring.wav",does the metal change in how it is hitting a surface?,yes,yes
+"Metal pole, dropping, set down, metal ring.wav",how many times does the metal piece collide with a surface?,five,Yes
+"Metal pole, dropping, set down, metal ring.wav",how many times does the metal piece collide with a surface?,ten,Maybe
+"Metal pole, dropping, set down, metal ring.wav",how many times does the metal piece collide with a surface?,eleven,Maybe
+snowSteps.wav,How many people are making sound?,one,Maybe
+snowSteps.wav,How many people are making sound?,five,Maybe
+snowSteps.wav,How many people are making sound?,one,Yes
+Atmosphere - City Fountain (Loop).wav,How is the weather here?,rainy,Yes
+Atmosphere - City Fountain (Loop).wav,How is the weather here?,winter,Yes
+Atmosphere - City Fountain (Loop).wav,How is the weather here?,rainy,Yes
+airplane01.wav,How big is the object making the noise?,big,Yes
+airplane01.wav,How big is the object making the noise?,big,Yes
+airplane01.wav,How big is the object making the noise?,airplane,Yes
+windy porch morning B.wav,How many times does a bird chirp?,twentytwo,Maybe
+windy porch morning B.wav,How many times does a bird chirp?,thirty,No
+windy porch morning B.wav,How many times does a bird chirp?,continuously,Maybe
+Kitchen fan.wav,How many consistent different sounds are being made?,many,Yes
+Kitchen fan.wav,How many consistent different sounds are being made?,one,Yes
+Kitchen fan.wav,How many consistent different sounds are being made?,three,Maybe
+in Park.wav,How many people can be heard clearly talking ?,two,No
+in Park.wav,How many people can be heard clearly talking ?,seven,Maybe
+in Park.wav,How many people can be heard clearly talking ?,two,Maybe
+R05_0526.wav,How many beeps are heard?,two,Yes
+R05_0526.wav,How many beeps are heard?,two,Maybe
+R05_0526.wav,How many beeps are heard?,two,Yes
+CreakingNoise.wav,How many times is the breathing sounds made?,ten,Yes
+CreakingNoise.wav,How many times is the breathing sounds made?,one,No
+CreakingNoise.wav,How many times is the breathing sounds made?,six,Maybe
+microwave_sounds.wav,How many times does the machine beep?,five,Yes
+microwave_sounds.wav,How many times does the machine beep?,five,Yes
+microwave_sounds.wav,How many times does the machine beep?,five,Yes
+20100307.subway.train.wav,How many times did  horn blow?,one,Yes
+20100307.subway.train.wav,How many times did  horn blow?,continuously,Maybe
+20100307.subway.train.wav,How many times did  horn blow?,two,No
+water splash and flounder about in a puddle.wav,How many splashes are there?,twenty,Maybe
+water splash and flounder about in a puddle.wav,How many splashes are there?,five,Maybe
+water splash and flounder about in a puddle.wav,How many splashes are there?,sixteen,Yes
+Collob church bells 2.wav,How many times does the bell ring?,eighteen,Yes
+Collob church bells 2.wav,How many times does the bell ring?,sixteen,Maybe
+Collob church bells 2.wav,How many times does the bell ring?,eighteen,Yes
+writing_pencil_2.wav,how is the writing utensil being used?,rapidly,Maybe
+writing_pencil_2.wav,how is the writing utensil being used?,writing,Yes
+writing_pencil_2.wav,how is the writing utensil being used?,scribbling,Maybe
+rain_session_thunder2_2006.wav,How many cracks of thunder are there?,two,Yes
+rain_session_thunder2_2006.wav,How many cracks of thunder are there?,two,Yes
+rain_session_thunder2_2006.wav,How many cracks of thunder are there?,three,Maybe
+crunchy_steps.wav,How many boxes is this person breaking down ?,two,No
+crunchy_steps.wav,How many boxes is this person breaking down ?,one,Maybe
+crunchy_steps.wav,How many boxes is this person breaking down ?,eighteen,Maybe
+gentle village sounds ed 1f.wav,How many children can be heard clearly?,one,Yes
+gentle village sounds ed 1f.wav,How many children can be heard clearly?,three,Maybe
+gentle village sounds ed 1f.wav,How many children can be heard clearly?,three,Yes
+Clinking Glasses.wav,How many clinking sounds are there in total?,twenty,Yes
+Clinking Glasses.wav,How many clinking sounds are there in total?,thirty,Maybe
+Clinking Glasses.wav,How many clinking sounds are there in total?,thirty,No
+birds_stereo.wav,How many different birds can be heard?,two,Yes
+birds_stereo.wav,How many different birds can be heard?,two,Maybe
+birds_stereo.wav,How many different birds can be heard?,four,Maybe
+150209 Trevor Webb Air Cyclinder.wav,How many settings for the power tool are there?,three,Maybe
+150209 Trevor Webb Air Cyclinder.wav,How many settings for the power tool are there?,cooker,Yes
+150209 Trevor Webb Air Cyclinder.wav,How many settings for the power tool are there?,two,Maybe
+150209 Trevor Webb Air Cyclinder.wav,how many times is the item started up?,one,Yes
+150209 Trevor Webb Air Cyclinder.wav,how many times is the item started up?,six,Maybe
+150209 Trevor Webb Air Cyclinder.wav,how many times is the item started up?,six,Yes
+Movements in the Water.wav,How many times does this person wash and rinse the cup ?,four,Maybe
+Movements in the Water.wav,How many times does this person wash and rinse the cup ?,three,Maybe
+Movements in the Water.wav,How many times does this person wash and rinse the cup ?,one,Maybe
+Movements in the Water.wav,How many words are spoken by a person?,zero,Yes
+Movements in the Water.wav,How many words are spoken by a person?,zero,Maybe
+Movements in the Water.wav,How many words are spoken by a person?,none,Yes
+20070406.car.engine.00.wav,How many times did it take to start the engine?,twice,Yes
+20070406.car.engine.00.wav,How many times did it take to start the engine?,one,Yes
+20070406.car.engine.00.wav,How many times did it take to start the engine?,one,Yes
+cornflake.wav,How many times does the sound repeat?,seven,Yes
+cornflake.wav,How many times does the sound repeat?,seven,Yes
+cornflake.wav,How many times does the sound repeat?,seven,Yes
+Turning Pages.wav,How many pages are snapped?,eleven,Yes
+Turning Pages.wav,How many pages are snapped?,nine,Maybe
+Turning Pages.wav,How many pages are snapped?,twelve,Maybe
+RowanMagennis_160019_SD100_PageTurning.wav,how many times is a page turned?,six,Yes
+RowanMagennis_160019_SD100_PageTurning.wav,how many times is a page turned?,four,Maybe
+RowanMagennis_160019_SD100_PageTurning.wav,how many times is a page turned?,six,Maybe
+0232 Street_birds_2.wav,How many loud bangs are there?,one,Yes
+0232 Street_birds_2.wav,How many loud bangs are there?,one,Yes
+0232 Street_birds_2.wav,How many loud bangs are there?,one,Yes
+0232 Street_birds_2.wav,How many times did horn blow?,three,Maybe
+0232 Street_birds_2.wav,How many times did horn blow?,none,Maybe
+0232 Street_birds_2.wav,How many times did horn blow?,zero,Yes
+pages turning.wav,How many cards has the person flipped through?,many,Maybe
+pages turning.wav,How many cards has the person flipped through?,fifty,Yes
+pages turning.wav,How many cards has the person flipped through?,five,Maybe
+Playing With Tin Foil.wav,How many objects are making noise?,three,Maybe
+Playing With Tin Foil.wav,How many objects are making noise?,footsteps,Maybe
+Playing With Tin Foil.wav,How many objects are making noise?,four,Maybe
+Playing With Tin Foil.wav,How many people are making noise?,two,Maybe
+Playing With Tin Foil.wav,How many people are making noise?,two,Maybe
+Playing With Tin Foil.wav,How many people are making noise?,one,Maybe
+London Street.wav,How many people are talking?,four,Yes
+London Street.wav,How many people are talking?,two,No
+London Street.wav,How many people are talking?,two,Yes
+wind&amp;chimes.wav,How is the weather?,windy,Yes
+wind&amp;chimes.wav,How is the weather?,windy,Yes
+wind&amp;chimes.wav,How is the weather?,windy,Yes
+wind&amp;chimes.wav,How many beeps are there?,nine,Maybe
+wind&amp;chimes.wav,How many beeps are there?,ten,Maybe
+wind&amp;chimes.wav,How many beeps are there?,twelve,Maybe
+Singapore Street Scape.wav,How many vehicles can be heard on the road?,two,Yes
+Singapore Street Scape.wav,How many vehicles can be heard on the road?,four,Yes
+Singapore Street Scape.wav,How many vehicles can be heard on the road?,one,No
+Unseathing &amp; Wobble.wav,How many different instruments are there?,three,Yes
+Unseathing &amp; Wobble.wav,How many different instruments are there?,triangle,Yes
+Unseathing &amp; Wobble.wav,How many different instruments are there?,three,No
+Unseathing &amp; Wobble.wav,How many times does the person click their fingers?,two,Yes
+Unseathing &amp; Wobble.wav,How many times does the person click their fingers?,seven,Yes
+Unseathing &amp; Wobble.wav,How many times does the person click their fingers?,seven,Yes
+Train and dog.wav,How many legs do these animals have?,four,Maybe
+Train and dog.wav,How many legs do these animals have?,two,Yes
+Train and dog.wav,How many legs do these animals have?,two,Yes
+Train and dog.wav,How many times does the dog bark?,one,Yes
+Train and dog.wav,How many times does the dog bark?,one,Yes
+Train and dog.wav,How many times does the dog bark?,one,Yes
+air show flyby 2007-08-18.wav,How many aircrafts are heard taking off ?,one,Yes
+air show flyby 2007-08-18.wav,How many aircrafts are heard taking off ?,one,Yes
+air show flyby 2007-08-18.wav,How many aircrafts are heard taking off ?,two,Maybe
+Ambient_Winter.wav,How many times a tapping sound can be heard ?,four,Yes
+Ambient_Winter.wav,How many times a tapping sound can be heard ?,two,Yes
+Ambient_Winter.wav,How many times a tapping sound can be heard ?,two,Maybe
+passenger train bells.wav,How many loud sources of noise appear?,three,Maybe
+passenger train bells.wav,How many loud sources of noise appear?,three,Maybe
+passenger train bells.wav,How many loud sources of noise appear?,two,Yes
+Fergus Whining.wav,How many times does the puppy howl?,five,Yes
+Fergus Whining.wav,How many times does the puppy howl?,six,Yes
+Fergus Whining.wav,How many times does the puppy howl?,five,Maybe
+Snapping twig.wav,How many items get broken?,four,Maybe
+Snapping twig.wav,How many items get broken?,four,Maybe
+Snapping twig.wav,How many items get broken?,four,Maybe
+Snapping twig.wav,How many times does an object hit other object?,four,Yes
+Snapping twig.wav,How many times does an object hit other object?,four,Yes
+Snapping twig.wav,How many times does an object hit other object?,four,Yes
+creaking train.wav,How many people are there?,zero,Yes
+creaking train.wav,How many people are there?,none,Yes
+creaking train.wav,How many people are there?,zero,Yes
+Printer Setting Up.wav,How many times is the buzzing heard?,four,Yes
+Printer Setting Up.wav,How many times is the buzzing heard?,three,Yes
+Printer Setting Up.wav,How many times is the buzzing heard?,two,Yes
+it_has_just_begun.wav,How many people can be heard in the background?,two,Maybe
+it_has_just_begun.wav,How many people can be heard in the background?,three,Maybe
+it_has_just_begun.wav,How many people can be heard in the background?,one,Maybe
+0401 Traffic_light_sound.wav,How many birds are chirping?,one,Maybe
+0401 Traffic_light_sound.wav,How many birds are chirping?,one,Yes
+0401 Traffic_light_sound.wav,How many birds are chirping?,two,Maybe
+fs_brokenMixer302-2.wav,How many high pitch sounds are present?,two,Yes
+fs_brokenMixer302-2.wav,How many high pitch sounds are present?,two,Yes
+fs_brokenMixer302-2.wav,How many high pitch sounds are present?,three,Yes
+Ominous Ambience.wav,How many patterns does the noise follow?,two,Maybe
+Ominous Ambience.wav,How many patterns does the noise follow?,one,Maybe
+Ominous Ambience.wav,How many patterns does the noise follow?,two,Maybe
+Ominous Ambience.wav,How many UFO's are there?,one,Yes
+Ominous Ambience.wav,How many UFO's are there?,one,No
+Ominous Ambience.wav,How many UFO's are there?,six,Maybe
+"ATM-LES-CIST-1,50.wav",How many times does the bird pause it's chirping?,five,Yes
+"ATM-LES-CIST-1,50.wav",How many times does the bird pause it's chirping?,two,Maybe
+"ATM-LES-CIST-1,50.wav",How many times does the bird pause it's chirping?,four,Yes
+Turning Book Pages.wav,How many pages are turned?,twelve,Maybe
+Turning Book Pages.wav,How many pages are turned?,twelve,Yes
+Turning Book Pages.wav,How many pages are turned?,twelve,Maybe
+plasglass.wav,How many times is there a tinny thud?,four,Yes
+plasglass.wav,How many times is there a tinny thud?,three,Maybe
+plasglass.wav,How many times is there a tinny thud?,twenty,Maybe
+Shower Running 01.wav,how often is the water hitting the surface?,constantly,Maybe
+Shower Running 01.wav,how often is the water hitting the surface?,useful,Yes
+Shower Running 01.wav,how often is the water hitting the surface?,always,Yes
+Santa Motor.wav,How many thuds are beating?,two,Maybe
+Santa Motor.wav,How many thuds are beating?,fifteen,Maybe
+Santa Motor.wav,How many thuds are beating?,eight,Yes
+Bag.wav,How many steps did the person take?,six,Yes
+Bag.wav,How many steps did the person take?,ten,Maybe
+Bag.wav,How many steps did the person take?,eight,Maybe
+StepsOnGravel.wav,How many steps does the person take?,eighteen,Yes
+StepsOnGravel.wav,How many steps does the person take?,eighteen,Maybe
+StepsOnGravel.wav,How many steps does the person take?,eighteen,Yes
+Rolling Drawer.wav,How many people are closing the drawer?,one,Yes
+Rolling Drawer.wav,How many people are closing the drawer?,five,Yes
+Rolling Drawer.wav,How many people are closing the drawer?,seven,Yes
+Metra Train.wav,how many times does the beep happen?,fifty,No
+Metra Train.wav,how many times does the beep happen?,zero,Maybe
+Metra Train.wav,how many times does the beep happen?,fifty,Maybe
+kettle boiling on gas stove.wav,How heavy is it raining?,moderately,Maybe
+kettle boiling on gas stove.wav,How heavy is it raining?,very,Yes
+kettle boiling on gas stove.wav,How heavy is it raining?,medium,Maybe
+stonemachine.wav,how many times is a large bass heard?,four,Maybe
+stonemachine.wav,how many times is a large bass heard?,zero,Yes
+stonemachine.wav,how many times is a large bass heard?,two,Yes
+walking 2.wav,How many steps does the person take?,fifty,Maybe
+walking 2.wav,How many steps does the person take?,forty,Maybe
+walking 2.wav,How many steps does the person take?,fifty,Maybe
+Chime.wav,How many dings are there?,two,Yes
+Chime.wav,How many dings are there?,two,Yes
+Chime.wav,How many dings are there?,two,Yes
+civenna bell.wav,How many times does the bell ring?,seven,Maybe
+civenna bell.wav,How many times does the bell ring?,twentyfour,Yes
+civenna bell.wav,How many times does the bell ring?,twentyfive,Maybe
+birds forest.wav,How many times can a birds be heard chirping?,four,Maybe
+birds forest.wav,How many times can a birds be heard chirping?,four,Yes
+birds forest.wav,How many times can a birds be heard chirping?,nine,Maybe
+Gong bashing repetitively with resonance.wav,How many times is the instrument struck?,once,Maybe
+Gong bashing repetitively with resonance.wav,How many times is the instrument struck?,four,Maybe
+Gong bashing repetitively with resonance.wav,How many times is the instrument struck?,once,Yes
+Washing Hands.wav,How many times does the wtaer splash?,thirteen,Maybe
+Washing Hands.wav,How many times does the wtaer splash?,four,Maybe
+Washing Hands.wav,How many times does the wtaer splash?,nine,Maybe
+20100117.beeps.00.wav,How many times does the machine beep?,sixteen,Maybe
+20100117.beeps.00.wav,How many times does the machine beep?,fifteen,Maybe
+20100117.beeps.00.wav,How many times does the machine beep?,radar,Maybe
+crowd2.wav,How many people are in the space?,many,Maybe
+crowd2.wav,How many people are in the space?,five,Yes
+crowd2.wav,How many people are in the space?,many,Yes
+knife-sword sounds.wav,How many different types of metal are being hit together?,two,Maybe
+knife-sword sounds.wav,How many different types of metal are being hit together?,three,Yes
+knife-sword sounds.wav,How many different types of metal are being hit together?,two,Maybe
+knife-sword sounds.wav,How many times does the person hit the metal or glass rod?,sixteen,Maybe
+knife-sword sounds.wav,How many times does the person hit the metal or glass rod?,twelve,Maybe
+knife-sword sounds.wav,How many times does the person hit the metal or glass rod?,twelve,Yes
+Greater Spotted Woodpecker.wav,How many different birds are making noise?,two,Maybe
+Greater Spotted Woodpecker.wav,How many different birds are making noise?,five,Maybe
+Greater Spotted Woodpecker.wav,How many different birds are making noise?,four,No
+20080928.rain.scooter.wav,How many vehicles are there?,one,Yes
+20080928.rain.scooter.wav,How many vehicles are there?,one,Yes
+20080928.rain.scooter.wav,How many vehicles are there?,two,Maybe
+WindChin-cut.wav,how many times do the two items collide with each other?,thirty,Maybe
+WindChin-cut.wav,how many times do the two items collide with each other?,two,Yes
+WindChin-cut.wav,how many times do the two items collide with each other?,seventeen,Maybe
+Mechanical camera sound.wav,how many clicking noises are there?,seven,Maybe
+Mechanical camera sound.wav,how many clicking noises are there?,six,Maybe
+Mechanical camera sound.wav,how many clicking noises are there?,seven,Maybe
+car dragging limb.wav,How many clicks can be heard?,six,No
+car dragging limb.wav,How many clicks can be heard?,three,Maybe
+car dragging limb.wav,How many clicks can be heard?,ten,Maybe
+car dragging limb.wav,How many times does the engine change sounds?,three,Maybe
+car dragging limb.wav,How many times does the engine change sounds?,one,Maybe
+car dragging limb.wav,How many times does the engine change sounds?,four,Maybe
+Pedestrian street cph.wav,How many motor vehicles pass by?,four,Maybe
+Pedestrian street cph.wav,How many motor vehicles pass by?,one,Yes
+Pedestrian street cph.wav,How many motor vehicles pass by?,one,Maybe
+Pedestrian street cph.wav,How many people are speaking?,two,Yes
+Pedestrian street cph.wav,How many people are speaking?,two,Maybe
+Pedestrian street cph.wav,How many people are speaking?,two,Yes
+Close Cracking Thunder.wav,How many thunderclaps can be heard?,one,Yes
+Close Cracking Thunder.wav,How many thunderclaps can be heard?,one,Maybe
+Close Cracking Thunder.wav,How many thunderclaps can be heard?,one,Maybe
+_Stream 3 at Krka falls.wav,How is the weather?,rainy,Yes
+_Stream 3 at Krka falls.wav,How is the weather?,rainy,Yes
+_Stream 3 at Krka falls.wav,How is the weather?,rainy,Yes
+old harbour ambiance NL 150920_0781.wav,How many times did a bell chime?,six,Yes
+old harbour ambiance NL 150920_0781.wav,How many times did a bell chime?,three,Yes
+old harbour ambiance NL 150920_0781.wav,How many times did a bell chime?,three,Yes
+old harbour ambiance NL 150920_0781.wav,How many tools are being used?,multiple,Maybe
+old harbour ambiance NL 150920_0781.wav,How many tools are being used?,two,Maybe
+old harbour ambiance NL 150920_0781.wav,How many tools are being used?,three,No
+lxxxxtvc.wav,How many times does the music volume decrease?,four,Maybe
+lxxxxtvc.wav,How many times does the music volume decrease?,three,Maybe
+lxxxxtvc.wav,How many times does the music volume decrease?,zero,Maybe
+Creek 115.wav,How fast does the water flow?,moderately,Maybe
+Creek 115.wav,How fast does the water flow?,high,Yes
+Creek 115.wav,How fast does the water flow?,drop,Maybe
+20141026 Chihuahua Barking Licking 01.wav,How many times is the sound repeated?,twenty,Yes
+20141026 Chihuahua Barking Licking 01.wav,How many times is the sound repeated?,twenty,Maybe
+20141026 Chihuahua Barking Licking 01.wav,How many times is the sound repeated?,nineteen,Yes
+keurig-coffe-maker.wav,How many different speeds does the motor move at after the sucking sound finishes?,two,Yes
+keurig-coffe-maker.wav,How many different speeds does the motor move at after the sucking sound finishes?,two,Yes
+keurig-coffe-maker.wav,How many different speeds does the motor move at after the sucking sound finishes?,five,Maybe
+Heavy rain - some people 2.wav,How is the weather?,rainy,Yes
+Heavy rain - some people 2.wav,How is the weather?,rainy,Maybe
+Heavy rain - some people 2.wav,How is the weather?,raining,Yes
+Flipping Pages.wav,How many pages are being turned?,five,Yes
+Flipping Pages.wav,How many pages are being turned?,seven,Maybe
+Flipping Pages.wav,How many pages are being turned?,seven,Yes
+rain.thunder.crickets-01.wav,How is the weather?,stormy,Yes
+rain.thunder.crickets-01.wav,How is the weather?,windy,Yes
+rain.thunder.crickets-01.wav,How is the weather?,windy,Yes
+Post vibrating (contact microphone).wav,How many objects are being hit?,one,No
+Post vibrating (contact microphone).wav,How many objects are being hit?,one,Yes
+Post vibrating (contact microphone).wav,How many objects are being hit?,two,Yes
+coast wave kids far 160710_0914.wav,How many people are there?,none,Maybe
+coast wave kids far 160710_0914.wav,How many people are there?,zero,Maybe
+coast wave kids far 160710_0914.wav,How many people are there?,twenty,No
+magazinedrop.wav,how many times is the item dropped?,six,Yes
+magazinedrop.wav,how many times is the item dropped?,five,Yes
+magazinedrop.wav,how many times is the item dropped?,eight,Maybe
+mosquito.wav,how is the air behaving from the balloon?,squeaking,Maybe
+mosquito.wav,how is the air behaving from the balloon?,squeaking,Yes
+mosquito.wav,how is the air behaving from the balloon?,squeaking,Yes
+20100422.waterfall.birds.wav,How many legs do each of these creatures have?,two,Yes
+20100422.waterfall.birds.wav,How many legs do each of these creatures have?,two,Yes
+20100422.waterfall.birds.wav,How many legs do each of these creatures have?,two,Yes
+Dawn-with-a-Pheasant.wav,How many feet do these animals have?,twenty,Maybe
+Dawn-with-a-Pheasant.wav,How many feet do these animals have?,two,Yes
+Dawn-with-a-Pheasant.wav,How many feet do these animals have?,two,Yes
+Car up over canal bridge.wav,How many vehicles can be heard speeding by ?,two,Yes
+Car up over canal bridge.wav,How many vehicles can be heard speeding by ?,one,Yes
+Car up over canal bridge.wav,How many vehicles can be heard speeding by ?,one,Yes
+scraping seeds from a squash.wav,How many items get dropped?,eight,Maybe
+scraping seeds from a squash.wav,How many items get dropped?,seven,Maybe
+scraping seeds from a squash.wav,How many items get dropped?,five,No
+foot_steps_snow_02.wav,How many steps can be heard?,thirtyfour,Maybe
+foot_steps_snow_02.wav,How many steps can be heard?,thirtythree,Maybe
+foot_steps_snow_02.wav,How many steps can be heard?,three,Yes
+Stove Top(Gas)_1-2.wav,How many times is the object turned on and off?,three,Yes
+Stove Top(Gas)_1-2.wav,How many times is the object turned on and off?,three,Yes
+Stove Top(Gas)_1-2.wav,How many times is the object turned on and off?,five,Maybe
+wawawawawwawawawwaterrings.wav,How many times does the pulse beat?,hundred,Maybe
+wawawawawwawawawwaterrings.wav,How many times does the pulse beat?,hundred,Maybe
+wawawawawwawawawwaterrings.wav,How many times does the pulse beat?,two,Yes
+Baking Tray Hits.wav,How many times is the object dropped?,eleven,Yes
+Baking Tray Hits.wav,How many times is the object dropped?,twelve,Yes
+Baking Tray Hits.wav,How many times is the object dropped?,twelve,Yes
+Booklet_-_Leaf_through_01_L_Close_R_Distant.wav,How many pages were turned over ?,eight,Maybe
+Booklet_-_Leaf_through_01_L_Close_R_Distant.wav,How many pages were turned over ?,eight,Maybe
+Booklet_-_Leaf_through_01_L_Close_R_Distant.wav,How many pages were turned over ?,eight,Yes
+Slow Carillon - GoSoundtrack .wav,How many times is the instrument struck?,eight,Yes
+Slow Carillon - GoSoundtrack .wav,How many times is the instrument struck?,ten,Yes
+Slow Carillon - GoSoundtrack .wav,How many times is the instrument struck?,ten,Yes
+harbour scene 1.wav,How many loud steps does the person make?,eight,Maybe
+harbour scene 1.wav,How many loud steps does the person make?,ten,Maybe
+harbour scene 1.wav,How many loud steps does the person make?,five,Maybe
+Thunder - 1.wav,How many times does the thunder roll?,one,Yes
+Thunder - 1.wav,How many times does the thunder roll?,one,Yes
+Thunder - 1.wav,How many times does the thunder roll?,three,Maybe
+20100401.brussels.01.wav,How many times did the bell ring?,three,Yes
+20100401.brussels.01.wav,How many times did the bell ring?,three,Yes
+20100401.brussels.01.wav,How many times did the bell ring?,three,Yes
+shoreline_waves_seagulls.wav,How many birds are making noise?,two,Maybe
+shoreline_waves_seagulls.wav,How many birds are making noise?,one,Maybe
+shoreline_waves_seagulls.wav,How many birds are making noise?,one,Maybe
+Mockingbird singing @ Alfama.wav,How many birds can be heard?,three,Yes
+Mockingbird singing @ Alfama.wav,How many birds can be heard?,one,Yes
+Mockingbird singing @ Alfama.wav,How many birds can be heard?,two,Maybe
+Baking dish picked up put down.wav,How many times is there a thud?,ten,Yes
+Baking dish picked up put down.wav,How many times is there a thud?,three,Maybe
+Baking dish picked up put down.wav,How many times is there a thud?,five,Maybe
+R09_0005 bird ambience.wav,How many times does the bird chirp?,zero,Maybe
+R09_0005 bird ambience.wav,How many times does the bird chirp?,four,Yes
+R09_0005 bird ambience.wav,How many times does the bird chirp?,ten,Maybe
+WaterFall2.wav,how many birds are heard?,none,Yes
+WaterFall2.wav,how many birds are heard?,none,Maybe
+WaterFall2.wav,how many birds are heard?,five,Yes
+WaterFall2.wav,How many people are talking?,zero,Yes
+WaterFall2.wav,How many people are talking?,zero,Maybe
+WaterFall2.wav,How many people are talking?,zero,Maybe
+md1trk10.wav,How is this object being moved?,pulled,No
+md1trk10.wav,How is this object being moved?,pulled,Maybe
+md1trk10.wav,How is this object being moved?,bus,Maybe
+Crows.wav,How do these animals travel around?,flying,Yes
+Crows.wav,How do these animals travel around?,flight,Yes
+Crows.wav,How do these animals travel around?,flying,Yes
+Growling and Barking Dog.wav,How many times does the dog bark?,thirteen,Yes
+Growling and Barking Dog.wav,How many times does the dog bark?,thirteen,Yes
+Growling and Barking Dog.wav,How many times does the dog bark?,thirteen,Yes
+smallgrocery.wav,How many times does the machine beep?,eight,Yes
+smallgrocery.wav,How many times does the machine beep?,eight,Yes
+smallgrocery.wav,How many times does the machine beep?,eight,Maybe
+Washing Machine Water Filling Up.wav,How many times is the water muffled or disturbed?,two,Maybe
+Washing Machine Water Filling Up.wav,How many times is the water muffled or disturbed?,none,Yes
+Washing Machine Water Filling Up.wav,How many times is the water muffled or disturbed?,none,Yes
+"traffic medium throaty downtown and people from balcony Havana, Cuba 2008.wav",How many honks can be heard?,two,Maybe
+"traffic medium throaty downtown and people from balcony Havana, Cuba 2008.wav",How many honks can be heard?,zero,Maybe
+"traffic medium throaty downtown and people from balcony Havana, Cuba 2008.wav",How many honks can be heard?,three,Maybe
+PassingCars02.wav,How many vehicles passed by ?,four,Yes
+PassingCars02.wav,How many vehicles passed by ?,four,Yes
+PassingCars02.wav,How many vehicles passed by ?,four,Yes
+Nord_Odal_Nyhus_04_juni_2011_quiet_forest_birds_insects_leaf_rustle_02.wav,How many birds can be heard?,one,Maybe
+Nord_Odal_Nyhus_04_juni_2011_quiet_forest_birds_insects_leaf_rustle_02.wav,How many birds can be heard?,two,Yes
+Nord_Odal_Nyhus_04_juni_2011_quiet_forest_birds_insects_leaf_rustle_02.wav,How many birds can be heard?,three,Maybe
+Interior Plane Taking Off.wav,how many times does the animal chirp?,seven,No
+Interior Plane Taking Off.wav,how many times does the animal chirp?,four,No
+Interior Plane Taking Off.wav,how many times does the animal chirp?,four,Maybe
+12_Ambient_Quarry_High_44_16.wav,How many questions are asked?,three,Maybe
+12_Ambient_Quarry_High_44_16.wav,How many questions are asked?,two,Yes
+12_Ambient_Quarry_High_44_16.wav,How many questions are asked?,three,Maybe
+birds-vendicari.wav,How many bird species are in this clip?,two,Maybe
+birds-vendicari.wav,How many bird species are in this clip?,two,Maybe
+birds-vendicari.wav,How many bird species are in this clip?,three,Maybe
+background2(bar or pub).wav,How many people can be heard?,six,Maybe
+background2(bar or pub).wav,How many people can be heard?,five,No
+background2(bar or pub).wav,How many people can be heard?,ten,Maybe
+Pulley Sounds.wav,How many people can be heard?,one,Maybe
+Pulley Sounds.wav,How many people can be heard?,one,Maybe
+Pulley Sounds.wav,How many people can be heard?,one,Maybe
+Pulley Sounds.wav,How many times is something being scraped?,two,Maybe
+Pulley Sounds.wav,How many times is something being scraped?,eleven,No
+Pulley Sounds.wav,How many times is something being scraped?,eight,Maybe
+shower running.wav,How hard is the water drizzling?,medium,Yes
+shower running.wav,How hard is the water drizzling?,shower,Yes
+shower running.wav,How hard is the water drizzling?,very,Yes
+shower running.wav,How many times does the rain make a loud thump as it hits a surface?,three,Maybe
+shower running.wav,How many times does the rain make a loud thump as it hits a surface?,three,No
+shower running.wav,How many times does the rain make a loud thump as it hits a surface?,zero,Maybe
+Snow effects.wav,How many people are walking through snow?,two,Maybe
+Snow effects.wav,How many people are walking through snow?,one,Maybe
+Snow effects.wav,How many people are walking through snow?,one,Yes
+"a gentle breeze, wind 2.wav",How is the weather?,windy,No
+"a gentle breeze, wind 2.wav",How is the weather?,windy,Yes
+"a gentle breeze, wind 2.wav",How is the weather?,windy,Yes
+"a gentle breeze, wind 2.wav",how many times can a car be heard?,once,Maybe
+"a gentle breeze, wind 2.wav",how many times can a car be heard?,two,Maybe
+"a gentle breeze, wind 2.wav",how many times can a car be heard?,once,No
+cacerolada_barcelona.wav,how many times does the bell sound?,thirty,Yes
+cacerolada_barcelona.wav,how many times does the bell sound?,twenty,Maybe
+cacerolada_barcelona.wav,how many times does the bell sound?,five,Yes
+160903 Dunrobin Croquet.wav,How many stones are falling?,two,Maybe
+160903 Dunrobin Croquet.wav,How many stones are falling?,three,No
+160903 Dunrobin Croquet.wav,How many stones are falling?,two,Yes
+160903 Dunrobin Croquet.wav,How many times did a rock make a sound?,five,Yes
+160903 Dunrobin Croquet.wav,How many times did a rock make a sound?,six,Yes
+160903 Dunrobin Croquet.wav,How many times did a rock make a sound?,three,Maybe
+Crickets indoors.wav,How many times does the cricket squawk?,many,Yes
+Crickets indoors.wav,How many times does the cricket squawk?,thirty,Yes
+Crickets indoors.wav,How many times does the cricket squawk?,twentyfive,Yes
+Amb Resid Ext 001.wav,How many vehicles pass by?,one,Yes
+Amb Resid Ext 001.wav,How many vehicles pass by?,one,Yes
+Amb Resid Ext 001.wav,How many vehicles pass by?,one,Yes
+crushed_then_cubed.wav,How many times did the machine pause?,one,Yes
+crushed_then_cubed.wav,How many times did the machine pause?,two,No
+crushed_then_cubed.wav,How many times did the machine pause?,once,Yes
+md1trk1.wav,how many times does the phone ring?,one,Yes
+md1trk1.wav,how many times does the phone ring?,one,Maybe
+md1trk1.wav,how many times does the phone ring?,once,Yes
+Village Morning Atmos.wav,how many barks are heard?,thirty,Maybe
+Village Morning Atmos.wav,how many barks are heard?,thirtyone,No
+Village Morning Atmos.wav,how many barks are heard?,thirty,No
+kikkers.wav,How many times does the bird chirp?,nineteen,No
+kikkers.wav,How many times does the bird chirp?,eight,Maybe
+kikkers.wav,How many times does the bird chirp?,frog,Yes
+progetto_sound_design_prova1.wav,how many people are talking?,three,Yes
+progetto_sound_design_prova1.wav,how many people are talking?,three,Maybe
+progetto_sound_design_prova1.wav,how many people are talking?,two,Maybe
+animals-pig-hens-Blaafarveverket-090721.wav,How many animals can be heard distinctly?,two,Yes
+animals-pig-hens-Blaafarveverket-090721.wav,How many animals can be heard distinctly?,three,Yes
+animals-pig-hens-Blaafarveverket-090721.wav,How many animals can be heard distinctly?,two,Yes
+"Cicadas (Euboea, Greece).wav",How many creatures are present?,many,Yes
+"Cicadas (Euboea, Greece).wav",How many creatures are present?,ten,Maybe
+"Cicadas (Euboea, Greece).wav",How many creatures are present?,two,Yes
+ZOOM0001.wav,How many people are chatting?,five,Maybe
+ZOOM0001.wav,How many people are chatting?,three,Maybe
+ZOOM0001.wav,How many people are chatting?,many,Yes
+Tui Birdsong New Zealand.wav,How many times does a bird tweet?,bird,Yes
+Tui Birdsong New Zealand.wav,How many times does a bird tweet?,eight,Maybe
+Tui Birdsong New Zealand.wav,How many times does a bird tweet?,thirteen,Maybe
+SFX_CHEERS-Bottle-CLANK_Beer-n-Wine.wav,how many times is the chime made?,six,Yes
+SFX_CHEERS-Bottle-CLANK_Beer-n-Wine.wav,how many times is the chime made?,six,Yes
+SFX_CHEERS-Bottle-CLANK_Beer-n-Wine.wav,how many times is the chime made?,six,Yes
+More waves at Collingwood.wav,How many cars can be heard driving past?,five,Maybe
+More waves at Collingwood.wav,How many cars can be heard driving past?,two,Yes
+More waves at Collingwood.wav,How many cars can be heard driving past?,four,Maybe
+church-eglise #1.wav,How many people are talking in the background?,four,Maybe
+church-eglise #1.wav,How many people are talking in the background?,two,Maybe
+church-eglise #1.wav,How many people are talking in the background?,two,No
+knock on wood.wav,How are they knocking when they knock with the thump?,hard,Maybe
+knock on wood.wav,How are they knocking when they knock with the thump?,hard,Yes
+knock on wood.wav,How are they knocking when they knock with the thump?,many,Yes
+enginetuning1.wav,how many leaf  blowers are in operation?,three,Yes
+enginetuning1.wav,how many leaf  blowers are in operation?,two,Yes
+enginetuning1.wav,how many leaf  blowers are in operation?,racecar,Maybe
+nnus_forklift_driveby.wav,How many times do the bells jingle?,one,Maybe
+nnus_forklift_driveby.wav,How many times do the bells jingle?,ten,Maybe
+nnus_forklift_driveby.wav,How many times do the bells jingle?,two,Yes
+creaking dishwasher_2.wav,How many times is the door open or closed?,three,Maybe
+creaking dishwasher_2.wav,How many times is the door open or closed?,three,Maybe
+creaking dishwasher_2.wav,How many times is the door open or closed?,three,Maybe
+Shanghai Traffic Near Peoples Square.wav,How loud is it?,very,Maybe
+Shanghai Traffic Near Peoples Square.wav,How loud is it?,loud,Yes
+Shanghai Traffic Near Peoples Square.wav,How loud is it?,very,Maybe
+STE-005.wav,How many times does this person shovel glass material from the ground ?,two,Maybe
+STE-005.wav,How many times does this person shovel glass material from the ground ?,eleven,Yes
+STE-005.wav,How many times does this person shovel glass material from the ground ?,seven,Maybe
+drive by moped.wav,How does this make this noise?,speaker,Maybe
+drive by moped.wav,How does this make this noise?,mower,Maybe
+drive by moped.wav,How does this make this noise?,motorcycle,Maybe
+Tortured Apple 03.wav,How many times does the the person squish the food?,eight,Maybe
+Tortured Apple 03.wav,How many times does the the person squish the food?,interested,Yes
+Tortured Apple 03.wav,How many times does the the person squish the food?,eleven,Yes
+fire_engine_patrolling.wav,how many times does the bell sound?,seventeen,Yes
+fire_engine_patrolling.wav,how many times does the bell sound?,seventeen,Yes
+fire_engine_patrolling.wav,how many times does the bell sound?,thirteen,Maybe
+20081228.rain.wav,How many vehicles pass by ?,one,No
+20081228.rain.wav,How many vehicles pass by ?,one,Yes
+20081228.rain.wav,How many vehicles pass by ?,one,Maybe
+Fan_Ventilation_Stereo 2.wav,How would one describe this sound?,hissing,Maybe
+Fan_Ventilation_Stereo 2.wav,How would one describe this sound?,motor,Yes
+Fan_Ventilation_Stereo 2.wav,How would one describe this sound?,wind,Yes
+Bus(Drive.Reverse)_1-2.wav,How many large vehicles can be heard?,many,Yes
+Bus(Drive.Reverse)_1-2.wav,How many large vehicles can be heard?,one,Maybe
+Bus(Drive.Reverse)_1-2.wav,How many large vehicles can be heard?,one,Maybe
+Bus(Drive.Reverse)_1-2.wav,How many times can a spray sound be heard?,many,Yes
+Bus(Drive.Reverse)_1-2.wav,How many times can a spray sound be heard?,four,Yes
+Bus(Drive.Reverse)_1-2.wav,How many times can a spray sound be heard?,one,Yes
+Metallic Strums.wav,How many times does the clanging occur?,eight,Yes
+Metallic Strums.wav,How many times does the clanging occur?,eight,Yes
+Metallic Strums.wav,How many times does the clanging occur?,eight,Maybe
+Drawers opening and closing.wav,How many objects are being played with?,one,Yes
+Drawers opening and closing.wav,How many objects are being played with?,one,Yes
+Drawers opening and closing.wav,How many objects are being played with?,three,No
+Water_Running_Down_Drain.wav,How many times are air bubbles heard?,one,Yes
+Water_Running_Down_Drain.wav,How many times are air bubbles heard?,one,Maybe
+Water_Running_Down_Drain.wav,How many times are air bubbles heard?,eight,Yes
+Soap bottle squeeze.wav,How many times did the sound repeat?,six,Maybe
+Soap bottle squeeze.wav,How many times did the sound repeat?,thirteen,Maybe
+Soap bottle squeeze.wav,How many times did the sound repeat?,thirteen,Yes
+TidalBarrage.wav,How hard is it raining?,thunder,Yes
+TidalBarrage.wav,How hard is it raining?,very,Maybe
+TidalBarrage.wav,How hard is it raining?,heavy,Yes
+buzzing bee 3 multi.wav,How many insects can be heard?,two,Yes
+buzzing bee 3 multi.wav,How many insects can be heard?,three,Yes
+buzzing bee 3 multi.wav,How many insects can be heard?,one,Maybe
+TOILET FLUSH AND REFILLING ECHO LOW PITCH.wav,How many times the toilet was flushed?,one,Yes
+TOILET FLUSH AND REFILLING ECHO LOW PITCH.wav,How many times the toilet was flushed?,once,Yes
+TOILET FLUSH AND REFILLING ECHO LOW PITCH.wav,How many times the toilet was flushed?,one,Yes
+Birds in a forest.wav,how many different birds are there?,three,Maybe
+Birds in a forest.wav,how many different birds are there?,six,Yes
+Birds in a forest.wav,how many different birds are there?,two,Maybe
+indoors house ambient more silent room tone.wav,How many humans are heard?,two,Yes
+indoors house ambient more silent room tone.wav,How many humans are heard?,one,Maybe
+indoors house ambient more silent room tone.wav,How many humans are heard?,two,Maybe
+Money in the bag.wav,How many times does the crowd applaud?,once,Yes
+Money in the bag.wav,How many times does the crowd applaud?,once,Yes
+Money in the bag.wav,How many times does the crowd applaud?,once,Yes
+Car starts in garage.wav,How many engines can be heard?,one,Yes
+Car starts in garage.wav,How many engines can be heard?,one,Yes
+Car starts in garage.wav,How many engines can be heard?,revving,Yes
+Car starts in garage.wav,How many times is the engine revved?,five,Yes
+Car starts in garage.wav,How many times is the engine revved?,three,Maybe
+Car starts in garage.wav,How many times is the engine revved?,six,Yes
+Old Phone_01.wav,How many times does the phone ring?,eight,Yes
+Old Phone_01.wav,How many times does the phone ring?,eight,Yes
+Old Phone_01.wav,How many times does the phone ring?,fifteen,Yes
+File clicking open.wav,How many times is the ball ponged?,sixteen,Maybe
+File clicking open.wav,How many times is the ball ponged?,ten,Maybe
+File clicking open.wav,How many times is the ball ponged?,thirteen,Maybe
+Rain On A Window.wav,How is the weather?,raining,Yes
+Rain On A Window.wav,How is the weather?,raining,Yes
+Rain On A Window.wav,How is the weather?,rainy,Yes
+Wood chopping ambience.wav,How many times can a solid object be heard coming into contact with another solid object?,twenty,No
+Wood chopping ambience.wav,How many times can a solid object be heard coming into contact with another solid object?,seventeen,Maybe
+Wood chopping ambience.wav,How many times can a solid object be heard coming into contact with another solid object?,seventeen,Yes
+drop.wav,How many tapping sounds can be heard?,twenty,Yes
+drop.wav,How many tapping sounds can be heard?,ten,Maybe
+drop.wav,How many tapping sounds can be heard?,twenty,Yes
+thunderstorm_1.wav,how many times does the thunder sound?,three,No
+thunderstorm_1.wav,how many times does the thunder sound?,four,No
+thunderstorm_1.wav,how many times does the thunder sound?,two,Maybe
+Remix of 101674__Robinhood76__01906_aluminium_foil_&#39;space-alien radio-static remix&#39;.wav,How many times is there a break of silence?,three,Yes
+Remix of 101674__Robinhood76__01906_aluminium_foil_&#39;space-alien radio-static remix&#39;.wav,How many times is there a break of silence?,twice,Maybe
+Remix of 101674__Robinhood76__01906_aluminium_foil_&#39;space-alien radio-static remix&#39;.wav,How many times is there a break of silence?,two,Maybe
+Glass pieces smashed.wav,How many times is the object crushed?,fourteen,Yes
+Glass pieces smashed.wav,How many times is the object crushed?,fourteen,Maybe
+Glass pieces smashed.wav,How many times is the object crushed?,thirteen,Yes
+KnifeScrapingWoodWhittling.wav,How many times is something scratched?,fifteen,Maybe
+KnifeScrapingWoodWhittling.wav,How many times is something scratched?,fifteen,No
+KnifeScrapingWoodWhittling.wav,How many times is something scratched?,fourteen,Maybe
+5 minutes of White Noise.wav,How many different noise sources can be heard throughout the clip?,one,Yes
+5 minutes of White Noise.wav,How many different noise sources can be heard throughout the clip?,one,Yes
+5 minutes of White Noise.wav,How many different noise sources can be heard throughout the clip?,one,No
+Calle pequena.wav,How many wheels do these vehicles have?,cars,Yes
+Calle pequena.wav,How many wheels do these vehicles have?,four,Yes
+Calle pequena.wav,How many wheels do these vehicles have?,four,Yes
+14.12.2011.002.wav,How many vehicles can be heard?,three,Maybe
+14.12.2011.002.wav,How many vehicles can be heard?,one,Maybe
+14.12.2011.002.wav,How many vehicles can be heard?,one,Yes
+steaming_water_ambience.wav,How is the weather outside ?,raining,Yes
+steaming_water_ambience.wav,How is the weather outside ?,rainy,Yes
+steaming_water_ambience.wav,How is the weather outside ?,rainy,Yes
+Rock-various hits.wav,how many times is the tap heard?,thirteen,Yes
+Rock-various hits.wav,how many times is the tap heard?,four,Maybe
+Rock-various hits.wav,how many times is the tap heard?,thirteen,Yes
+Toy Car.wav,How many objects are being moved?,five,Maybe
+Toy Car.wav,How many objects are being moved?,many,Yes
+Toy Car.wav,How many objects are being moved?,one,Maybe
+Traffic in Rue Blanche - Paris - France.wav,How many cars drive by?,five,No
+Traffic in Rue Blanche - Paris - France.wav,How many cars drive by?,one,Yes
+Traffic in Rue Blanche - Paris - France.wav,How many cars drive by?,two,No
+marissa sound 2.wav,how many times does the chime sound?,twelve,Maybe
+marissa sound 2.wav,how many times does the chime sound?,nine,Yes
+marissa sound 2.wav,how many times does the chime sound?,nine,Yes
+Dog and crow under the rain in the alpine forest.wav,How many times does the dog bark?,eleven,Yes
+Dog and crow under the rain in the alpine forest.wav,How many times does the dog bark?,twelve,Yes
+Dog and crow under the rain in the alpine forest.wav,How many times does the dog bark?,ten,Yes
+Shower and walk - rear.wav,How is the weather?,rainy,Yes
+Shower and walk - rear.wav,How is the weather?,raining,Yes
+Shower and walk - rear.wav,How is the weather?,rainy,Yes
+Shower and walk - rear.wav,How many times does two metal surfaces come in to contact ?,one,Yes
+Shower and walk - rear.wav,How many times does two metal surfaces come in to contact ?,once,Yes
+Shower and walk - rear.wav,How many times does two metal surfaces come in to contact ?,one,Maybe
